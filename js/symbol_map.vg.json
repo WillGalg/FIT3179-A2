@@ -1,0 +1,26 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 800,
+  "height": 500,
+  "title": "Coffee tasting notes per region of production",
+  "projection": {"type": "equalEarth"},
+  "layer": [{
+      "data": {
+        "url": "World.topo.json",
+        "format": {"type": "topojson", "feature": "World.geo"}
+      },
+      "mark": {"type": "geoshape", "fill": "lightgray", "stroke": "white"}
+    },
+    {
+      "data": {
+        "url": "Coffee Database.csv"
+      },
+      "mark": {"type": "circle", "tooltip": {"content": "data"}},
+      "encoding": {
+        "longitude": {"field": "Longitude", "type": "quantitative"},
+        "latitude": {"field": "Latitude", "type": "quantitative"},
+        "color": {"value":"steelblue"}
+        }
+    }
+  ]
+}
