@@ -304,7 +304,7 @@
                 "Suriname",
                 "Uruguay"
                 ],
-            "name": "Importer Region: "}
+            "name": "View a single region: "}
         },
         {
         "name": "Year_Select",
@@ -315,21 +315,27 @@
             "max": 2018,
             "step":1,
             "name": "Year Slicer: "}
+    },
+    {
+        "name": "number_range",
+        "value": 1000,
+        "bind":{
+            "input": "range",
+            "min": 0,
+            "max": 30000,
+            "step":1000,
+            "name": "Import numbers above: "}
     }
 ],   
     "transform": [
-        {
-            "window": [{"op":"row_number","as":"rank"}],
-            "sort": [{"field": "number","order": "descending"}]
-        },
-        {"filter":"datum.rank < 147"},
         {"filter":"Import_Region == null || datum.imports == Import_Region"},
-        {"filter":"datum.year == Year_Select"}
+        {"filter":"datum.year == Year_Select"},
+        {"filter":"datum.number > number_range"}
     ],
     "mark": "bar",
     "encoding": {
       "x": {"field": "imports", "type": "nominal",
-      "sort":{"field":"number","op":"average","order":"descending"}
+      "sort":{"field":"number","op":"mean","order":"descending"}
     },
       "y": {"field":"number", "type": "quantitative"}
     }

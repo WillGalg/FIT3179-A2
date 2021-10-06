@@ -20,17 +20,18 @@
   </div>
 </div>
 
-<div id="dot_map">
+<div id = "dot_map">
 <script type="text/javascript">
   var spec2 = "js/symbol_map.vg.json";
   vegaEmbed('#dot_map', spec2).then(function(result) {
   }).catch(console.error);
 </script>
 </div>
-<div id="import_timeseries">
+<p></p>
+<div id="bar">
   <script type="text/javascript">
-  var spec3 = "js/time_series.vg.json";
-  vegaEmbed("#import_timeseries",spec3).then(function(result) {
+  var spec3 = "js/import_timeseries.vg.json";
+  vegaEmbed("#bar",spec3).then(function(result) {
   }).catch(console.error);
   </script>
 </div>
