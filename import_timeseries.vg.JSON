@@ -1,0 +1,20 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "imports.csv"
+    },
+    "width": "container",
+    "mark": {
+      "type": "line",
+      "interpolate": "monotone"
+    },
+    "encoding": {
+      "x": {
+        "field": "imports"
+      },
+      "y": {
+        "field": "2018"
+      }
+    },
+    "config": {}
+  }
