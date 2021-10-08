@@ -1,0 +1,29 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width":500,
+    "height": 500,
+    "data": {"url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/retail-prices.csv"},
+    "mark": {"type":"line", "point":true},
+    "params": [{
+        "name": "LOC",
+        "select": {"type": "point","fields": ["Location"]},
+        "bind":"legend"
+    }],
+    "encoding": {
+        "x": {"field": "Year", "type": "ordinal"},
+        "y": {"field":"Price-USD", "type": "quantitative"},
+        "color": {
+            "field": "Location",
+            "type": "nominal",
+            "scale": {"scheme":"category20b"}},
+        "opacity":{
+            "condition":{"param": "LOC","value":0.9},
+            "value":0.2
+        },
+        "tooltip": [
+            {"field": "Location"},
+            {"field": "Year"},
+            {"field": "Price-USD","format":".2f"}
+        ]
+    }
+}

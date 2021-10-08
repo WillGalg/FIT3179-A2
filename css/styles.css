@@ -3,17 +3,19 @@
 	bottom: 50px; 
 	left: 10px;
 	right: 10px;
-	/*height: 1000px;
-	width: 800px;*/
 }
 #bar {
 	top:25px;
 	bottom: 50px; 
 	left: 10px;
 	right: 10px;
-	/*height: 1000px;
-	width: 800px;*/
 }
 #pure-g {
 	margin-bottom: 25px;
+}
+#time_series {
+	top:25px;
+	bottom: 50px; 
+	left: 10px;
+	right: 10px;
 }
