@@ -1,8 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "width": 500,
+  "width": 675,
   "height": 500,
-  "title": "Coffee tasting notes per Country",
   "projection": {"type": "equalEarth"},
   "layer": [
     {
@@ -10,7 +9,7 @@
         "url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/World.topo.json",
         "format": {"type": "topojson", "feature": "World.geo"}
       },
-      "mark": {"type": "geoshape", "fill": "lightgrey", "stroke": "black"}
+      "mark": {"type": "geoshape", "fill": "#fbefdf", "stroke": "#b2b2b2"}
     },
     {
       "data": {"url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/Coffee%20Database.csv"},
@@ -18,7 +17,7 @@
       "encoding": {
         "longitude": {"field": "Longitude", "type": "quantitative"},
         "latitude": {"field": "Latitude", "type": "quantitative"},
-        "color": {"value": "brown"},
+        "color": {"value": "#8d6852"},
       "tooltip": [
         {"field":"Country"},
         {"field": "Description"}

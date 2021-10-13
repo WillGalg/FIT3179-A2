@@ -2,18 +2,18 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width":500,
     "height": 500,
-    "data": {"url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/retail-prices.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/ICO Dataset.csv"},
     "mark": {"type":"line", "point":true},
     "params": [{
         "name": "LOC",
-        "select": {"type": "point","fields": ["Location"]},
+        "select": {"type": "point","fields": ["Country"]},
         "bind":"legend"
     }],
     "encoding": {
         "x": {"field": "Year", "type": "ordinal"},
         "y": {"field":"Price-USD", "type": "quantitative"},
         "color": {
-            "field": "Location",
+            "field": "Country",
             "type": "nominal",
             "scale": {"scheme":"category20b"}},
         "opacity":{
@@ -21,7 +21,7 @@
             "value":0.2
         },
         "tooltip": [
-            {"field": "Location"},
+            {"field": "Country"},
             {"field": "Year"},
             {"field": "Price-USD","format":".2f"}
         ]

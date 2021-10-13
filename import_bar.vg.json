@@ -1,42 +1,14 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "width":500,
+    "width":625,
     "height": 500,
-    "data": {"url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/imports.csv"},
+    "data": {"url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/ICO Dataset.csv"},
     "params":[
         {
         "name": "Import_Region",
         "bind":{
             "input": "select",
-            "options": [null,"Austria",
-                "Belgium",
-                "Belgium/Luxembourg",
-                "Bulgaria",
-                "Croatia",
-                "Cyprus",
-                "Czech Republic",
-                "Denmark",
-                "Estonia",
-                "Finland",
-                "France",
-                "Germany",
-                "Greece",
-                "Hungary",
-                "Ireland",
-                "Italy",
-                "Latvia",
-                "Lithuania",
-                "Luxembourg",
-                "Malta",
-                "Netherlands",
-                "Poland",
-                "Portugal",
-                "Romania",
-                "Slovakia",
-                "Slovenia",
-                "Spain",
-                "Sweden",
-                "United Kingdom",
+            "options": [null,"Netherlands",
                 "Japan",
                 "Norway",
                 "Russian Federation",
@@ -156,35 +128,8 @@
                 "Suriname",
                 "Uruguay"
                 ],
-            "labels": ["Show All","Austria",
-                "Belgium",
-                "Belgium/Luxembourg",
-                "Bulgaria",
-                "Croatia",
-                "Cyprus",
-                "Czech Republic",
-                "Denmark",
-                "Estonia",
-                "Finland",
-                "France",
-                "Germany",
-                "Greece",
-                "Hungary",
-                "Ireland",
-                "Italy",
-                "Latvia",
-                "Lithuania",
-                "Luxembourg",
-                "Malta",
+            "labels": ["Show All",
                 "Netherlands",
-                "Poland",
-                "Portugal",
-                "Romania",
-                "Slovakia",
-                "Slovenia",
-                "Spain",
-                "Sweden",
-                "United Kingdom",
                 "Japan",
                 "Norway",
                 "Russian Federation",
@@ -304,7 +249,7 @@
                 "Suriname",
                 "Uruguay"
                 ],
-            "name": "View a single region: "}
+            "name": "View a single region with imports: "}
         },
         {
         "name": "Year_Select",
@@ -323,20 +268,21 @@
             "input": "range",
             "min": 0,
             "max": 30000,
-            "step":1000,
+            "step":500,
             "name": "Import numbers above: "}
     }
 ],   
     "transform": [
-        {"filter":"Import_Region == null || datum.imports == Import_Region"},
-        {"filter":"datum.year == Year_Select"},
-        {"filter":"datum.number > number_range"}
+        {"filter":"Import_Region == null || datum.Country == Import_Region"},
+        {"filter":"datum.Year == Year_Select"},
+        {"filter":"datum.imports > number_range"}
     ],
     "mark": "bar",
     "encoding": {
-      "x": {"field": "imports", "type": "nominal",
-      "sort":{"field":"number","op":"mean","order":"descending"}
+      "x": {"field": "Country", "type": "nominal",
+      "sort":{"field":"imports","op":"mean","order":"descending"}
     },
-      "y": {"field":"number", "type": "quantitative"}
+      "y": {"field":"imports", "type": "quantitative"},
+      "color":{"value":"#462e25"}
     }
   }

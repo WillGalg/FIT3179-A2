@@ -24,7 +24,7 @@
       <p>This page will walk through all the basics required to become a coffee aficionado!</p>
     </div>
   </div>
-
+  <!-- Dot map-->
   <div class="pure-g">
     <div class="pure-u-1-3">
       <div class="description description-left">
@@ -37,7 +37,30 @@
     </div>
 </div>
 <!-- end pure grid group -->
+<!--Bar2-->
+<div class="pure-g">
+  <div class="pure-u-1-3">
+    <div class="description description-left">
+      <h2>Coffee export rate per country from 2014-2018</h2>
+      <p>This bar chart shows the amount of coffee exported per year per location. Use the filters & sliders below the chart to view a specific year, region (some regions may not have any exporting data present) or coffee export amount.</p>
+    </div>
+  </div>
+  <div class="pure-u-1-3">
+    <div id="bar2"  class="vis-container"></div>
+  </div>
+<!--Bar1-->
+<div class="pure-g">
+  <div class="pure-u-1-3">
+    <div class="description description-left">
+      <h2>Coffee import rate per country from 2014-2018</h2>
+      <p>This bar chart shows the amount of coffee imported per year per location. Use the filters & sliders below the chart to view a specific year, region (some regions may not have any import data present) or coffee import amount.</p>
+    </div>
+  </div>
+  <div class="pure-u-1-3">
+    <div id="bar1"  class="vis-container"></div>
+  </div>
 
+</div>
 <!-- pure grid group -->
 <div class="pure-g">
   <div class="pure-u-1-3">
@@ -54,18 +77,12 @@
 <!-- end pure grid group -->
 
 <!-- pure grid group -->
-<div class="pure-g">
-  <div class="pure-u-1-3">
-    <div class="description description-left">
-      <h2>Coffee import rate per country from 2014-2018</h2>
-      <p>This bar chart shows the amount of coffee imported per year per location. Use the filters & sliders below the chart to view a specific year, region (some regions may not have any import data present) or coffee import amount.</p>
-    </div>
-  </div>
-  <div class="pure-u-1-3">
-    <div id="bar"  class="vis-container"></div>
-  </div>
+
+
+
 
 </div>
+
 <!-- end pure grid group -->
 
 <div class="pure-g">
@@ -81,6 +98,7 @@
 var specVis1 = "js/symbol_map.vg.json";
 var specVis2 = "retail_timeseries.vg.json";
 var specVis3 = "import_bar.vg.json"
+var specVis4 = "export_bar.vg.json"
 
 vegaEmbed('#dot_map', specVis1, {"actions": false});
 
@@ -88,9 +106,14 @@ vegaEmbed('#time_series', specVis2, {"actions": false}).then(function(result) {
 // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 
-vegaEmbed('#bar', specVis3, {"actions": false}).then(function(result) {
+vegaEmbed('#bar1', specVis3, {"actions": false}).then(function(result) {
 // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
+
+vegaEmbed('#bar2', specVis4, {"actions": false}).then(function(result) {
+// Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
+
 </script>
 </body>
 </html>
