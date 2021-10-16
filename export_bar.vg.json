@@ -3,6 +3,7 @@
     "width":625,
     "height": 500,
     "data": {"url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/ICO Dataset.csv"},
+    "background": "#fbefdf",
     "params":[
         {
         "name": "Export_Region",

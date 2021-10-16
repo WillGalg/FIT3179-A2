@@ -26,6 +26,33 @@
 	right: 10px;
 }
 body {
-	background-color: #fbefdf;
+	background-color: #8d6852;
 	color: black;
+}
+
+.centered {
+	text-align: center;
+}
+
+.highlighted {
+	background-color: #eb7;
+}
+
+.highlighter {
+	background-color: #f3d1a4;
+}
+
+.padded {
+	padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: auto;
+}
+
+#lightpage {
+	width: 950px;
+	background-color: #fbefdf;
+	margin: auto;
+    padding-top: 40px;
 }

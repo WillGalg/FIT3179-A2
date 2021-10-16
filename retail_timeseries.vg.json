@@ -9,6 +9,7 @@
         "select": {"type": "point","fields": ["Country"]},
         "bind":"legend"
     }],
+    "background": "#fbefdf",
     "encoding": {
         "x": {"field": "Year", "type": "ordinal"},
         "y": {"field":"Price-USD", "type": "quantitative"},
@@ -25,5 +26,7 @@
             {"field": "Year"},
             {"field": "Price-USD","format":".2f"}
         ]
-    }
+    },
+    "transform": [ {"filter": {"field": "Price-USD", "gte": "10"}}
+    ]
 }

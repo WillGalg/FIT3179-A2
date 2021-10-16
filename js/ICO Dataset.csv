@@ -1,986 +1,986 @@
-Country,Year,Price-USD,imports,exports,Country:Year
-Afghanistan,2014,0,8,0,Afghanistan:2014
-Afghanistan,2015,0,12,0,Afghanistan:2015
-Afghanistan,2016,0,11,0,Afghanistan:2016
-Afghanistan,2017,0,34,0,Afghanistan:2017
-Afghanistan,2018,0,39,0,Afghanistan:2018
-Africa,2014,0,5233,0,Africa:2014
-Africa,2015,0,5530,0,Africa:2015
-Africa,2016,0,5867,0,Africa:2016
-Africa,2017,0,5240,0,Africa:2017
-Africa,2018,0,6347,0,Africa:2018
-Albania,2014,0,123,0,Albania:2014
-Albania,2015,0,143,0,Albania:2015
-Albania,2016,0,154,0,Albania:2016
-Albania,2017,0,155,0,Albania:2017
-Albania,2018,0,125,0,Albania:2018
-Algeria,2014,0,2154,0,Algeria:2014
-Algeria,2015,0,2159,0,Algeria:2015
-Algeria,2016,0,2323,0,Algeria:2016
-Algeria,2017,0,2190,0,Algeria:2017
-Algeria,2018,0,2206,0,Algeria:2018
-Anguilla,2014,0,0,0,Anguilla:2014
-Anguilla,2015,0,0,0,Anguilla:2015
-Anguilla,2016,0,0,0,Anguilla:2016
-Anguilla,2017,0,0,0,Anguilla:2017
-Anguilla,2018,0,0,0,Anguilla:2018
-Antigua and Barbuda,2014,0,2,0,Antigua and Barbuda:2014
-Antigua and Barbuda,2015,0,3,0,Antigua and Barbuda:2015
-Antigua and Barbuda,2016,0,2,0,Antigua and Barbuda:2016
-Antigua and Barbuda,2017,0,4,0,Antigua and Barbuda:2017
-Antigua and Barbuda,2018,0,4,0,Antigua and Barbuda:2018
-Argentina,2014,0,562,0,Argentina:2014
-Argentina,2015,0,632,0,Argentina:2015
-Argentina,2016,0,524,0,Argentina:2016
-Argentina,2017,0,627,0,Argentina:2017
-Argentina,2018,0,599,0,Argentina:2018
-Armenia,2014,0,194,0,Armenia:2014
-Armenia,2015,0,201,0,Armenia:2015
-Armenia,2016,0,207,0,Armenia:2016
-Armenia,2017,0,207,0,Armenia:2017
-Armenia,2018,0,205,0,Armenia:2018
-Aruba,2014,0,4,0,Aruba:2014
-Aruba,2015,0,5,0,Aruba:2015
-Aruba,2016,0,3,0,Aruba:2016
-Aruba,2017,0,5,0,Aruba:2017
-Aruba,2018,0,8,0,Aruba:2018
-Asia & Oceania,2014,0,15438,0,Asia & Oceania:2014
-Asia & Oceania,2015,0,16702,0,Asia & Oceania:2015
-Asia & Oceania,2016,0,17296,0,Asia & Oceania:2016
-Asia & Oceania,2017,0,19840,0,Asia & Oceania:2017
-Asia & Oceania,2018,0,20290,0,Asia & Oceania:2018
-Australia,2014,0,1681,0,Australia:2014
-Australia,2015,0,1920,0,Australia:2015
-Australia,2016,0,1881,0,Australia:2016
-Australia,2017,0,2078,0,Australia:2017
-Australia,2018,0,2071,0,Australia:2018
-Austria,2014,19.05077263,0,0,Austria:2014
-Austria,2015,16.42384106,0,0,Austria:2015
-Austria,2016,12.45033113,0,0,Austria:2016
-Austria,2017,13.73068433,0,0,Austria:2017
-Austria,2018,14.63576159,0,0,Austria:2018
-Azerbaijan,2014,0,11,0,Azerbaijan:2014
-Azerbaijan,2015,0,13,0,Azerbaijan:2015
-Azerbaijan,2016,0,16,0,Azerbaijan:2016
-Azerbaijan,2017,0,19,0,Azerbaijan:2017
-Azerbaijan,2018,0,31,0,Azerbaijan:2018
-Bahamas,2014,0,13,0,Bahamas:2014
-Bahamas,2015,0,17,0,Bahamas:2015
-Bahamas,2016,0,13,0,Bahamas:2016
-Bahamas,2017,0,11,0,Bahamas:2017
-Bahamas,2018,0,7,0,Bahamas:2018
-Bahrain,2014,0,31,0,Bahrain:2014
-Bahrain,2015,0,22,0,Bahrain:2015
-Bahrain,2016,0,21,0,Bahrain:2016
-Bahrain,2017,0,27,0,Bahrain:2017
-Bahrain,2018,0,33,0,Bahrain:2018
-Bangladesh,2014,0,16,0,Bangladesh:2014
-Bangladesh,2015,0,19,0,Bangladesh:2015
-Bangladesh,2016,0,23,0,Bangladesh:2016
-Bangladesh,2017,0,91,0,Bangladesh:2017
-Bangladesh,2018,0,116,0,Bangladesh:2018
-Barbados,2014,0,5,0,Barbados:2014
-Barbados,2015,0,6,0,Barbados:2015
-Barbados,2016,0,5,0,Barbados:2016
-Barbados,2017,0,5,0,Barbados:2017
-Barbados,2018,0,7,0,Barbados:2018
-Belarus,2014,0,257,0,Belarus:2014
-Belarus,2015,0,259,0,Belarus:2015
-Belarus,2016,0,275,0,Belarus:2016
-Belarus,2017,0,333,0,Belarus:2017
-Belarus,2018,0,383,0,Belarus:2018
-Belgium,2014,0,0,0,Belgium:2014
-Belgium,2015,0,0,0,Belgium:2015
-Belgium,2016,0,0,0,Belgium:2016
-Belgium,2017,0,0,0,Belgium:2017
-Belgium,2018,0,0,0,Belgium:2018
-Belgium/Luxembourg,2014,0,0,0,Belgium/Luxembourg:2014
-Belgium/Luxembourg,2015,0,0,0,Belgium/Luxembourg:2015
-Belgium/Luxembourg,2016,0,0,0,Belgium/Luxembourg:2016
-Belgium/Luxembourg,2017,0,0,0,Belgium/Luxembourg:2017
-Belgium/Luxembourg,2018,0,0,0,Belgium/Luxembourg:2018
-Belize,2014,0,9,0,Belize:2014
-Belize,2015,0,14,0,Belize:2015
-Belize,2016,0,14,0,Belize:2016
-Belize,2017,0,16,0,Belize:2017
-Belize,2018,0,23,0,Belize:2018
-Bermuda,2014,0,10,0,Bermuda:2014
-Bermuda,2015,0,8,0,Bermuda:2015
-Bermuda,2016,0,5,0,Bermuda:2016
-Bermuda,2017,0,5,0,Bermuda:2017
-Bermuda,2018,0,5,0,Bermuda:2018
-Bosnia and Herzegovina,2014,0,392,0,Bosnia and Herzegovina:2014
-Bosnia and Herzegovina,2015,0,408,0,Bosnia and Herzegovina:2015
-Bosnia and Herzegovina,2016,0,405,0,Bosnia and Herzegovina:2016
-Bosnia and Herzegovina,2017,0,391,0,Bosnia and Herzegovina:2017
-Bosnia and Herzegovina,2018,0,403,0,Bosnia and Herzegovina:2018
-Botswana,2014,0,21,0,Botswana:2014
-Botswana,2015,0,33,0,Botswana:2015
-Botswana,2016,0,23,0,Botswana:2016
-Botswana,2017,0,21,0,Botswana:2017
-Botswana,2018,0,6,0,Botswana:2018
-Brunei Darussalam,2014,0,46,0,Brunei Darussalam:2014
-Brunei Darussalam,2015,0,59,0,Brunei Darussalam:2015
-Brunei Darussalam,2016,0,57,0,Brunei Darussalam:2016
-Brunei Darussalam,2017,0,45,0,Brunei Darussalam:2017
-Brunei Darussalam,2018,0,62,0,Brunei Darussalam:2018
-Bulgaria,2014,0,0,0,Bulgaria:2014
-Bulgaria,2015,0,0,0,Bulgaria:2015
-Bulgaria,2016,0,0,0,Bulgaria:2016
-Bulgaria,2017,0,0,0,Bulgaria:2017
-Bulgaria,2018,0,0,0,Bulgaria:2018
-Burkina Faso,2014,0,83,0,Burkina Faso:2014
-Burkina Faso,2015,0,128,0,Burkina Faso:2015
-Burkina Faso,2016,0,92,0,Burkina Faso:2016
-Burkina Faso,2017,0,107,0,Burkina Faso:2017
-Burkina Faso,2018,0,241,0,Burkina Faso:2018
-Cambodia,2014,0,25,0,Cambodia:2014
-Cambodia,2015,0,24,0,Cambodia:2015
-Cambodia,2016,0,36,0,Cambodia:2016
-Cambodia,2017,0,98,0,Cambodia:2017
-Cambodia,2018,0,118,0,Cambodia:2018
-Canada,2014,0,4981,0,Canada:2014
-Canada,2015,0,4698,0,Canada:2015
-Canada,2016,0,4873,0,Canada:2016
-Canada,2017,0,5098,0,Canada:2017
-Canada,2018,0,5114,0,Canada:2018
-Cape Verde,2014,0,11,0,Cape Verde:2014
-Cape Verde,2015,0,11,0,Cape Verde:2015
-Cape Verde,2016,0,12,0,Cape Verde:2016
-Cape Verde,2017,0,14,0,Cape Verde:2017
-Cape Verde,2018,0,14,0,Cape Verde:2018
-Caribbean,2014,0,243,0,Caribbean:2014
-Caribbean,2015,0,237,0,Caribbean:2015
-Caribbean,2016,0,223,0,Caribbean:2016
-Caribbean,2017,0,164,0,Caribbean:2017
-Caribbean,2018,0,169,0,Caribbean:2018
-Cayman Islands,2014,0,3,0,Cayman Islands:2014
-Cayman Islands,2015,0,3,0,Cayman Islands:2015
-Cayman Islands,2016,0,4,0,Cayman Islands:2016
-Cayman Islands,2017,0,13,0,Cayman Islands:2017
-Cayman Islands,2018,0,12,0,Cayman Islands:2018
-Central America & Mexico,2014,0,18,2479.526809,Central America & Mexico:2014
-Central America & Mexico,2015,0,22,2457.996501,Central America & Mexico:2015
-Central America & Mexico,2016,0,19,2232.913073,Central America & Mexico:2016
-Central America & Mexico,2017,0,21,2910.649965,Central America & Mexico:2017
-Central America & Mexico,2018,0,28,2888.140482,Central America & Mexico:2018
-Chad,2014,0,0,0,Chad:2014
-Chad,2015,0,1,0,Chad:2015
-Chad,2016,0,1,0,Chad:2016
-Chad,2017,0,3,0,Chad:2017
-Chad,2018,0,12,0,Chad:2018
-Chile,2014,0,347,0,Chile:2014
-Chile,2015,0,348,0,Chile:2015
-Chile,2016,0,352,0,Chile:2016
-Chile,2017,0,376,0,Chile:2017
-Chile,2018,0,392,0,Chile:2018
-China (Mainland),2014,0,1262,0,China (Mainland):2014
-China (Mainland),2015,0,1188,0,China (Mainland):2015
-China (Mainland),2016,0,1708,0,China (Mainland):2016
-China (Mainland),2017,0,2146,0,China (Mainland):2017
-China (Mainland),2018,0,1456,0,China (Mainland):2018
-"China, People's Republic of",2014,0,1540,0,"China, People's Republic of:2014"
-"China, People's Republic of",2015,0,1518,0,"China, People's Republic of:2015"
-"China, People's Republic of",2016,0,2087,0,"China, People's Republic of:2016"
-"China, People's Republic of",2017,0,2585,0,"China, People's Republic of:2017"
-"China, People's Republic of",2018,0,2226,0,"China, People's Republic of:2018"
-Comoros,2014,0,0,0,Comoros:2014
-Comoros,2015,0,0,0,Comoros:2015
-Comoros,2016,0,1,0,Comoros:2016
-Comoros,2017,0,1,0,Comoros:2017
-Comoros,2018,0,2,0,Comoros:2018
-Cook Islands,2014,0,1,0,Cook Islands:2014
-Cook Islands,2015,0,1,0,Cook Islands:2015
-Cook Islands,2016,0,1,0,Cook Islands:2016
-Cook Islands,2017,0,2,0,Cook Islands:2017
-Cook Islands,2018,0,1,0,Cook Islands:2018
-Croatia,2014,0,0,0,Croatia:2014
-Croatia,2015,0,0,0,Croatia:2015
-Croatia,2016,0,0,0,Croatia:2016
-Croatia,2017,0,0,0,Croatia:2017
-Croatia,2018,0,0,0,Croatia:2018
-Cyprus,2014,14.30463576,0,0,Cyprus:2014
-Cyprus,2015,11.69977925,0,0,Cyprus:2015
-Cyprus,2016,11.69977925,0,0,Cyprus:2016
-Cyprus,2017,12.14128035,0,0,Cyprus:2017
-Cyprus,2018,12.78145695,0,0,Cyprus:2018
-Czech Republic,2014,0,0,0,Czech Republic:2014
-Czech Republic,2015,0,0,0,Czech Republic:2015
-Czech Republic,2016,0,0,0,Czech Republic:2016
-Czech Republic,2017,0,0,0,Czech Republic:2017
-Czech Republic,2018,0,0,0,Czech Republic:2018
-Denmark,2014,14.19426049,0,0,Denmark:2014
-Denmark,2015,12.91390728,0,0,Denmark:2015
-Denmark,2016,10.90507726,0,0,Denmark:2016
-Denmark,2017,11.10375276,0,0,Denmark:2017
-Denmark,2018,11.69977925,0,0,Denmark:2018
-Djibouti,2014,0,21,0,Djibouti:2014
-Djibouti,2015,0,32,0,Djibouti:2015
-Djibouti,2016,0,26,0,Djibouti:2016
-Djibouti,2017,0,46,0,Djibouti:2017
-Djibouti,2018,0,37,0,Djibouti:2018
-Dominica,2014,0,6,0,Dominica:2014
-Dominica,2015,0,1,0,Dominica:2015
-Dominica,2016,0,0,0,Dominica:2016
-Dominica,2017,0,1,0,Dominica:2017
-Dominica,2018,0,0,0,Dominica:2018
-Egypt,2014,0,593,0,Egypt:2014
-Egypt,2015,0,726,0,Egypt:2015
-Egypt,2016,0,918,0,Egypt:2016
-Egypt,2017,0,566,0,Egypt:2017
-Egypt,2018,0,700,0,Egypt:2018
-Estonia,2014,0,0,0,Estonia:2014
-Estonia,2015,0,0,0,Estonia:2015
-Estonia,2016,0,0,0,Estonia:2016
-Estonia,2017,0,0,0,Estonia:2017
-Estonia,2018,0,0,0,Estonia:2018
-Eswatini,2014,0,9,0,Eswatini:2014
-Eswatini,2015,0,16,0,Eswatini:2015
-Eswatini,2016,0,12,0,Eswatini:2016
-Eswatini,2017,0,7,0,Eswatini:2017
-Eswatini,2018,0,8,0,Eswatini:2018
-Europe,2014,0,3129,0,Europe:2014
-Europe,2015,0,2965,0,Europe:2015
-Europe,2016,0,3135,0,Europe:2016
-Europe,2017,0,3113,0,Europe:2017
-Europe,2018,0,3324,0,Europe:2018
-Fiji,2014,0,2,0,Fiji:2014
-Fiji,2015,0,2,0,Fiji:2015
-Fiji,2016,0,2,0,Fiji:2016
-Fiji,2017,0,4,0,Fiji:2017
-Fiji,2018,0,3,0,Fiji:2018
-Finland,2014,9.514348786,0,0,Finland:2014
-Finland,2015,8.609271523,0,0,Finland:2015
-Finland,2016,8.101545254,0,0,Finland:2016
-Finland,2017,9.050772627,0,0,Finland:2017
-Finland,2018,9.3598234,0,0,Finland:2018
-France,2014,8.322295806,0,0,France:2014
-France,2015,6.865342163,0,0,France:2015
-France,2016,7.196467991,0,0,France:2016
-France,2017,7.505518764,0,0,France:2017
-France,2018,8.123620309,0,0,France:2018
-Gambia,2014,0,6,0,Gambia:2014
-Gambia,2015,0,10,0,Gambia:2015
-Gambia,2016,0,8,0,Gambia:2016
-Gambia,2017,0,5,0,Gambia:2017
-Gambia,2018,0,35,0,Gambia:2018
-Georgia,2014,0,168,0,Georgia:2014
-Georgia,2015,0,184,0,Georgia:2015
-Georgia,2016,0,187,0,Georgia:2016
-Georgia,2017,0,195,0,Georgia:2017
-Georgia,2018,0,193,0,Georgia:2018
-Germany,2014,12.62693157,0,0,Germany:2014
-Germany,2015,11.43487859,0,0,Germany:2015
-Germany,2016,11.14790287,0,0,Germany:2016
-Germany,2017,11.78807947,0,0,Germany:2017
-Germany,2018,12.1192053,0,0,Germany:2018
-Gibraltar,2014,0,0,0,Gibraltar:2014
-Gibraltar,2015,0,2,0,Gibraltar:2015
-Gibraltar,2016,0,0,0,Gibraltar:2016
-Gibraltar,2017,0,3,0,Gibraltar:2017
-Gibraltar,2018,0,3,0,Gibraltar:2018
-Greece,2014,0,0,0,Greece:2014
-Greece,2015,0,0,0,Greece:2015
-Greece,2016,0,0,0,Greece:2016
-Greece,2017,0,0,0,Greece:2017
-Greece,2018,0,0,0,Greece:2018
-Grenada,2014,0,1,0,Grenada:2014
-Grenada,2015,0,1,0,Grenada:2015
-Grenada,2016,0,1,0,Grenada:2016
-Grenada,2017,0,0,0,Grenada:2017
-Grenada,2018,0,0,0,Grenada:2018
-Guinea-Bissau,2014,0,1,0,Guinea-Bissau:2014
-Guinea-Bissau,2015,0,2,0,Guinea-Bissau:2015
-Guinea-Bissau,2016,0,2,0,Guinea-Bissau:2016
-Guinea-Bissau,2017,0,7,0,Guinea-Bissau:2017
-Guinea-Bissau,2018,0,7,0,Guinea-Bissau:2018
-Holy See,2014,0,0,0,Holy See:2014
-Holy See,2015,0,0,0,Holy See:2015
-Holy See,2016,0,0,0,Holy See:2016
-Holy See,2017,0,0,0,Holy See:2017
-Holy See,2018,0,0,0,Holy See:2018
-Hong Kong,2014,0,249,0,Hong Kong:2014
-Hong Kong,2015,0,298,0,Hong Kong:2015
-Hong Kong,2016,0,346,0,Hong Kong:2016
-Hong Kong,2017,0,403,0,Hong Kong:2017
-Hong Kong,2018,0,721,0,Hong Kong:2018
-Hungary,2014,0,0,0,Hungary:2014
-Hungary,2015,0,0,0,Hungary:2015
-Hungary,2016,0,0,0,Hungary:2016
-Hungary,2017,0,0,0,Hungary:2017
-Hungary,2018,0,0,0,Hungary:2018
-Iceland,2014,0,47,0,Iceland:2014
-Iceland,2015,0,50,0,Iceland:2015
-Iceland,2016,0,54,0,Iceland:2016
-Iceland,2017,0,52,0,Iceland:2017
-Iceland,2018,0,51,0,Iceland:2018
-"Iran, Islamic Rep. of",2014,0,82,0,"Iran, Islamic Rep. of:2014"
-"Iran, Islamic Rep. of",2015,0,102,0,"Iran, Islamic Rep. of:2015"
-"Iran, Islamic Rep. of",2016,0,161,0,"Iran, Islamic Rep. of:2016"
-"Iran, Islamic Rep. of",2017,0,208,0,"Iran, Islamic Rep. of:2017"
-"Iran, Islamic Rep. of",2018,0,245,0,"Iran, Islamic Rep. of:2018"
-Iraq,2014,0,37,0,Iraq:2014
-Iraq,2015,0,33,0,Iraq:2015
-Iraq,2016,0,53,0,Iraq:2016
-Iraq,2017,0,176,0,Iraq:2017
-Iraq,2018,0,224,0,Iraq:2018
-Ireland,2014,0,0,0,Ireland:2014
-Ireland,2015,0,0,0,Ireland:2015
-Ireland,2016,0,0,0,Ireland:2016
-Ireland,2017,0,0,0,Ireland:2017
-Ireland,2018,0,0,0,Ireland:2018
-Israel,2014,0,592,0,Israel:2014
-Israel,2015,0,620,0,Israel:2015
-Israel,2016,0,599,0,Israel:2016
-Israel,2017,0,719,0,Israel:2017
-Israel,2018,0,734,0,Israel:2018
-Italy,2014,19.53642384,0,0,Italy:2014
-Italy,2015,16.51214128,0,0,Italy:2015
-Italy,2016,16.44591611,0,0,Italy:2016
-Italy,2017,16.93156733,0,0,Italy:2017
-Italy,2018,17.92494481,0,0,Italy:2018
-Japan,2014,12.53863135,7657,0,Japan:2014
-Japan,2015,12.36203091,8063,0,Japan:2015
-Japan,2016,13.70860927,8026,0,Japan:2016
-Japan,2017,13.13465784,7647,0,Japan:2017
-Japan,2018,12.80353201,7539.981823,0,Japan:2018
-Jordan,2014,0,566,0,Jordan:2014
-Jordan,2015,0,564,0,Jordan:2015
-Jordan,2016,0,636,0,Jordan:2016
-Jordan,2017,0,673,0,Jordan:2017
-Jordan,2018,0,816,0,Jordan:2018
-Kazakhstan,2014,0,131,0,Kazakhstan:2014
-Kazakhstan,2015,0,128,0,Kazakhstan:2015
-Kazakhstan,2016,0,145,0,Kazakhstan:2016
-Kazakhstan,2017,0,182,0,Kazakhstan:2017
-Kazakhstan,2018,0,206,0,Kazakhstan:2018
-Kiribati,2014,0,1,0,Kiribati:2014
-Kiribati,2015,0,0,0,Kiribati:2015
-Kiribati,2016,0,1,0,Kiribati:2016
-Kiribati,2017,0,2,0,Kiribati:2017
-Kiribati,2018,0,2,0,Kiribati:2018
-"Korea, Dem. People's Rep. of",2014,0,44,0,"Korea, Dem. People's Rep. of:2014"
-"Korea, Dem. People's Rep. of",2015,0,47,0,"Korea, Dem. People's Rep. of:2015"
-"Korea, Dem. People's Rep. of",2016,0,20,0,"Korea, Dem. People's Rep. of:2016"
-"Korea, Dem. People's Rep. of",2017,0,27,0,"Korea, Dem. People's Rep. of:2017"
-"Korea, Dem. People's Rep. of",2018,0,41,0,"Korea, Dem. People's Rep. of:2018"
-"Korea, Rep. of",2014,0,2419,0,"Korea, Rep. of:2014"
-"Korea, Rep. of",2015,0,2518,0,"Korea, Rep. of:2015"
-"Korea, Rep. of",2016,0,2780,0,"Korea, Rep. of:2016"
-"Korea, Rep. of",2017,0,2893,0,"Korea, Rep. of:2017"
-"Korea, Rep. of",2018,0,2899,0,"Korea, Rep. of:2018"
-Kuwait,2014,0,156,0,Kuwait:2014
-Kuwait,2015,0,164,0,Kuwait:2015
-Kuwait,2016,0,222,0,Kuwait:2016
-Kuwait,2017,0,209,0,Kuwait:2017
-Kuwait,2018,0,262,0,Kuwait:2018
-Kyrgyz Republic,2014,0,20,0,Kyrgyz Republic:2014
-Kyrgyz Republic,2015,0,21,0,Kyrgyz Republic:2015
-Kyrgyz Republic,2016,0,40,0,Kyrgyz Republic:2016
-Kyrgyz Republic,2017,0,22,0,Kyrgyz Republic:2017
-Kyrgyz Republic,2018,0,19,0,Kyrgyz Republic:2018
-Latvia,2014,0,0,0,Latvia:2014
-Latvia,2015,0,0,0,Latvia:2015
-Latvia,2016,0,0,0,Latvia:2016
-Latvia,2017,0,0,0,Latvia:2017
-Latvia,2018,0,0,0,Latvia:2018
-Lebanon,2014,0,612,0,Lebanon:2014
-Lebanon,2015,0,646,0,Lebanon:2015
-Lebanon,2016,0,639,0,Lebanon:2016
-Lebanon,2017,0,620,0,Lebanon:2017
-Lebanon,2018,0,643,0,Lebanon:2018
-Lesotho,2014,0,4,0,Lesotho:2014
-Lesotho,2015,0,4,0,Lesotho:2015
-Lesotho,2016,0,4,0,Lesotho:2016
-Lesotho,2017,0,11,0,Lesotho:2017
-Lesotho,2018,0,7,0,Lesotho:2018
-Libya,2014,0,197,0,Libya:2014
-Libya,2015,0,214,0,Libya:2015
-Libya,2016,0,175,0,Libya:2016
-Libya,2017,0,212,0,Libya:2017
-Libya,2018,0,281,0,Libya:2018
-Lithuania,2014,0,0,0,Lithuania:2014
-Lithuania,2015,0,0,0,Lithuania:2015
-Lithuania,2016,0,0,0,Lithuania:2016
-Lithuania,2017,0,0,0,Lithuania:2017
-Lithuania,2018,0,0,0,Lithuania:2018
-Luxembourg,2014,0,0,0,Luxembourg:2014
-Luxembourg,2015,0,0,0,Luxembourg:2015
-Luxembourg,2016,0,0,0,Luxembourg:2016
-Luxembourg,2017,0,0,0,Luxembourg:2017
-Luxembourg,2018,0,0,0,Luxembourg:2018
-Macao,2014,0,28,0,Macao:2014
-Macao,2015,0,31,0,Macao:2015
-Macao,2016,0,33,0,Macao:2016
-Macao,2017,0,37,0,Macao:2017
-Macao,2018,0,48,0,Macao:2018
-Malaysia,2014,0,1823,0,Malaysia:2014
-Malaysia,2015,0,1844,0,Malaysia:2015
-Malaysia,2016,0,1948,0,Malaysia:2016
-Malaysia,2017,0,2044,0,Malaysia:2017
-Malaysia,2018,0,2324,0,Malaysia:2018
-Mali,2014,0,24,0,Mali:2014
-Mali,2015,0,47,0,Mali:2015
-Mali,2016,0,55,0,Mali:2016
-Mali,2017,0,49,0,Mali:2017
-Mali,2018,0,87,0,Mali:2018
-Malta,2014,0,0,0,Malta:2014
-Malta,2015,0,0,0,Malta:2015
-Malta,2016,0,0,0,Malta:2016
-Malta,2017,0,0,0,Malta:2017
-Malta,2018,0,0,0,Malta:2018
-Mauritania,2014,0,7,0,Mauritania:2014
-Mauritania,2015,0,12,0,Mauritania:2015
-Mauritania,2016,0,13,0,Mauritania:2016
-Mauritania,2017,0,16,0,Mauritania:2017
-Mauritania,2018,0,100,0,Mauritania:2018
-Mauritius,2014,0,14,0,Mauritius:2014
-Mauritius,2015,0,11,0,Mauritius:2015
-Mauritius,2016,0,17,0,Mauritius:2016
-Mauritius,2017,0,28,0,Mauritius:2017
-Mauritius,2018,0,28,0,Mauritius:2018
-"Micronesia, Fed. States of",2014,0,5,0,"Micronesia, Fed. States of:2014"
-"Micronesia, Fed. States of",2015,0,5,0,"Micronesia, Fed. States of:2015"
-"Micronesia, Fed. States of",2016,0,4,0,"Micronesia, Fed. States of:2016"
-"Micronesia, Fed. States of",2017,0,2,0,"Micronesia, Fed. States of:2017"
-"Micronesia, Fed. States of",2018,0,3,0,"Micronesia, Fed. States of:2018"
-Moldova,2014,0,45,0,Moldova:2014
-Moldova,2015,0,40,0,Moldova:2015
-Moldova,2016,0,51,0,Moldova:2016
-Moldova,2017,0,52,0,Moldova:2017
-Moldova,2018,0,61,0,Moldova:2018
-Mongolia,2014,0,24,0,Mongolia:2014
-Mongolia,2015,0,26,0,Mongolia:2015
-Mongolia,2016,0,27,0,Mongolia:2016
-Mongolia,2017,0,32,0,Mongolia:2017
-Mongolia,2018,0,33,0,Mongolia:2018
-Montenegro,2014,0,65,0,Montenegro:2014
-Montenegro,2015,0,65,0,Montenegro:2015
-Montenegro,2016,0,59,0,Montenegro:2016
-Montenegro,2017,0,59,0,Montenegro:2017
-Montenegro,2018,0,59,0,Montenegro:2018
-Montserrat,2014,0,0,0,Montserrat:2014
-Montserrat,2015,0,0,0,Montserrat:2015
-Montserrat,2016,0,0,0,Montserrat:2016
-Montserrat,2017,0,0,0,Montserrat:2017
-Montserrat,2018,0,0,0,Montserrat:2018
-Morocco,2014,0,630,0,Morocco:2014
-Morocco,2015,0,662,0,Morocco:2015
-Morocco,2016,0,680,0,Morocco:2016
-Morocco,2017,0,706,0,Morocco:2017
-Morocco,2018,0,917,0,Morocco:2018
-Mozambique,2014,0,11,0,Mozambique:2014
-Mozambique,2015,0,8,0,Mozambique:2015
-Mozambique,2016,0,13,0,Mozambique:2016
-Mozambique,2017,0,16,0,Mozambique:2017
-Mozambique,2018,0,7,0,Mozambique:2018
-Myanmar,2014,0,202,0,Myanmar:2014
-Myanmar,2015,0,210,0,Myanmar:2015
-Myanmar,2016,0,172,0,Myanmar:2016
-Myanmar,2017,0,391,0,Myanmar:2017
-Myanmar,2018,0,362,0,Myanmar:2018
-Namibia,2014,0,38,0,Namibia:2014
-Namibia,2015,0,53,0,Namibia:2015
-Namibia,2016,0,30,0,Namibia:2016
-Namibia,2017,0,43,0,Namibia:2017
-Namibia,2018,0,24,0,Namibia:2018
-Netherlands,2014,12.60485651,6,0,Netherlands:2014
-Netherlands,2015,11.87637969,6,0,Netherlands:2015
-Netherlands,2016,10.52980132,6,0,Netherlands:2016
-Netherlands,2017,10.66225166,6,0,Netherlands:2017
-Netherlands,2018,10.33112583,6,0,Netherlands:2018
-New Zealand,2014,0,329,0,New Zealand:2014
-New Zealand,2015,0,359,0,New Zealand:2015
-New Zealand,2016,0,348,0,New Zealand:2016
-New Zealand,2017,0,376,0,New Zealand:2017
-New Zealand,2018,0,405,0,New Zealand:2018
-Niger,2014,0,24,0,Niger:2014
-Niger,2015,0,25,0,Niger:2015
-Niger,2016,0,12,0,Niger:2016
-Niger,2017,0,11,0,Niger:2017
-Niger,2018,0,9,0,Niger:2018
-North America,2014,0,4981,0,North America:2014
-North America,2015,0,4698,0,North America:2015
-North America,2016,0,4873,0,North America:2016
-North America,2017,0,5098,0,North America:2017
-North America,2018,0,5114,0,North America:2018
-North Macedonia,2014,0,145,0,North Macedonia:2014
-North Macedonia,2015,0,147,0,North Macedonia:2015
-North Macedonia,2016,0,153,0,North Macedonia:2016
-North Macedonia,2017,0,151,0,North Macedonia:2017
-North Macedonia,2018,0,159,0,North Macedonia:2018
-Norway,2014,16.55629139,743,0,Norway:2014
-Norway,2015,12.82560706,800,0,Norway:2015
-Norway,2016,12.27373068,799,0,Norway:2016
-Norway,2017,12.42825607,801,0,Norway:2017
-Norway,2018,12.69315673,743.340422,0,Norway:2018
-Oman,2014,0,115,0,Oman:2014
-Oman,2015,0,102,0,Oman:2015
-Oman,2016,0,99,0,Oman:2016
-Oman,2017,0,69,0,Oman:2017
-Oman,2018,0,166,0,Oman:2018
-Pakistan,2014,0,18,0,Pakistan:2014
-Pakistan,2015,0,13,0,Pakistan:2015
-Pakistan,2016,0,12,0,Pakistan:2016
-Pakistan,2017,0,26,0,Pakistan:2017
-Pakistan,2018,0,23,0,Pakistan:2018
-Poland,2014,0,0,0,Poland:2014
-Poland,2015,0,0,0,Poland:2015
-Poland,2016,0,0,0,Poland:2016
-Poland,2017,0,0,0,Poland:2017
-Poland,2018,0,0,0,Poland:2018
-Portugal,2014,12.64900662,0,0,Portugal:2014
-Portugal,2015,11.01545254,0,0,Portugal:2015
-Portugal,2016,10.88300221,0,0,Portugal:2016
-Portugal,2017,11.12582781,0,0,Portugal:2017
-Portugal,2018,11.83222958,0,0,Portugal:2018
-Puerto Rico,2014,0,199,0,Puerto Rico:2014
-Puerto Rico,2015,0,191,0,Puerto Rico:2015
-Puerto Rico,2016,0,185,0,Puerto Rico:2016
-Puerto Rico,2017,0,115,0,Puerto Rico:2017
-Puerto Rico,2018,0,122,0,Puerto Rico:2018
-Qatar,2014,0,44,0,Qatar:2014
-Qatar,2015,0,55,0,Qatar:2015
-Qatar,2016,0,75,0,Qatar:2016
-Qatar,2017,0,95,0,Qatar:2017
-Qatar,2018,0,65,0,Qatar:2018
-Romania,2014,0,0,0,Romania:2014
-Romania,2015,0,0,0,Romania:2015
-Romania,2016,0,0,0,Romania:2016
-Romania,2017,0,0,0,Romania:2017
-Romania,2018,0,0,0,Romania:2018
-Russian Federation,2014,0,4747,0,Russian Federation:2014
-Russian Federation,2015,0,4710,0,Russian Federation:2015
-Russian Federation,2016,0,5233,0,Russian Federation:2016
-Russian Federation,2017,0,5468,0,Russian Federation:2017
-Russian Federation,2018,0,5287.541562,0,Russian Federation:2018
-Saint Kitts and Nevis,2014,0,0,0,Saint Kitts and Nevis:2014
-Saint Kitts and Nevis,2015,0,0,0,Saint Kitts and Nevis:2015
-Saint Kitts and Nevis,2016,0,0,0,Saint Kitts and Nevis:2016
-Saint Kitts and Nevis,2017,0,1,0,Saint Kitts and Nevis:2017
-Saint Kitts and Nevis,2018,0,0,0,Saint Kitts and Nevis:2018
-Saint Lucia,2014,0,2,0,Saint Lucia:2014
-Saint Lucia,2015,0,2,0,Saint Lucia:2015
-Saint Lucia,2016,0,2,0,Saint Lucia:2016
-Saint Lucia,2017,0,3,0,Saint Lucia:2017
-Saint Lucia,2018,0,1,0,Saint Lucia:2018
-Saint Vincent & the Grenadines,2014,0,1,0,Saint Vincent & the Grenadines:2014
-Saint Vincent & the Grenadines,2015,0,1,0,Saint Vincent & the Grenadines:2015
-Saint Vincent & the Grenadines,2016,0,1,0,Saint Vincent & the Grenadines:2016
-Saint Vincent & the Grenadines,2017,0,0,0,Saint Vincent & the Grenadines:2017
-Saint Vincent & the Grenadines,2018,0,1,0,Saint Vincent & the Grenadines:2018
-Samoa,2014,0,12,0,Samoa:2014
-Samoa,2015,0,14,0,Samoa:2015
-Samoa,2016,0,16,0,Samoa:2016
-Samoa,2017,0,14,0,Samoa:2017
-Samoa,2018,0,20,0,Samoa:2018
-Sao Tome and Principe,2014,0,0,0,Sao Tome and Principe:2014
-Sao Tome and Principe,2015,0,0,0,Sao Tome and Principe:2015
-Sao Tome and Principe,2016,0,0,0,Sao Tome and Principe:2016
-Sao Tome and Principe,2017,0,0,0,Sao Tome and Principe:2017
-Sao Tome and Principe,2018,0,0,0,Sao Tome and Principe:2018
-Saudi Arabia,2014,0,1383,0,Saudi Arabia:2014
-Saudi Arabia,2015,0,1684,0,Saudi Arabia:2015
-Saudi Arabia,2016,0,1371,0,Saudi Arabia:2016
-Saudi Arabia,2017,0,1532,0,Saudi Arabia:2017
-Saudi Arabia,2018,0,1246,0,Saudi Arabia:2018
-Senegal,2014,0,58,0,Senegal:2014
-Senegal,2015,0,84,0,Senegal:2015
-Senegal,2016,0,157,0,Senegal:2016
-Senegal,2017,0,161,0,Senegal:2017
-Senegal,2018,0,153,0,Senegal:2018
-Serbia,2014,0,594,0,Serbia:2014
-Serbia,2015,0,511,0,Serbia:2015
-Serbia,2016,0,611,0,Serbia:2016
-Serbia,2017,0,576,0,Serbia:2017
-Serbia,2018,0,550,0,Serbia:2018
-Seychelles,2014,0,2,0,Seychelles:2014
-Seychelles,2015,0,4,0,Seychelles:2015
-Seychelles,2016,0,4,0,Seychelles:2016
-Seychelles,2017,0,4,0,Seychelles:2017
-Seychelles,2018,0,4,0,Seychelles:2018
-Singapore,2014,0,767,0,Singapore:2014
-Singapore,2015,0,874,0,Singapore:2015
-Singapore,2016,0,681,0,Singapore:2016
-Singapore,2017,0,699,0,Singapore:2017
-Singapore,2018,0,807,0,Singapore:2018
-Slovakia,2014,0,0,0,Slovakia:2014
-Slovakia,2015,0,0,0,Slovakia:2015
-Slovakia,2016,0,0,0,Slovakia:2016
-Slovakia,2017,0,0,0,Slovakia:2017
-Slovakia,2018,0,0,0,Slovakia:2018
-Slovenia,2014,0,0,0,Slovenia:2014
-Slovenia,2015,0,0,0,Slovenia:2015
-Slovenia,2016,0,0,0,Slovenia:2016
-Slovenia,2017,0,0,0,Slovenia:2017
-Slovenia,2018,0,0,0,Slovenia:2018
-Solomon Islands,2014,0,7,0,Solomon Islands:2014
-Solomon Islands,2015,0,10,0,Solomon Islands:2015
-Solomon Islands,2016,0,3,0,Solomon Islands:2016
-Solomon Islands,2017,0,2,0,Solomon Islands:2017
-Solomon Islands,2018,0,1,0,Solomon Islands:2018
-Somalia,2014,0,0,0,Somalia:2014
-Somalia,2015,0,2,0,Somalia:2015
-Somalia,2016,0,1,0,Somalia:2016
-Somalia,2017,0,1,0,Somalia:2017
-Somalia,2018,0,2,0,Somalia:2018
-"South Africa, Rep.of",2014,0,635,0,"South Africa, Rep.of:2014"
-"South Africa, Rep.of",2015,0,693,0,"South Africa, Rep.of:2015"
-"South Africa, Rep.of",2016,0,644,0,"South Africa, Rep.of:2016"
-"South Africa, Rep.of",2017,0,712,0,"South Africa, Rep.of:2017"
-"South Africa, Rep.of",2018,0,756,0,"South Africa, Rep.of:2018"
-South America,2014,0,986,0,South America:2014
-South America,2015,0,1056,0,South America:2015
-South America,2016,0,946,0,South America:2016
-South America,2017,0,1070,0,South America:2017
-South America,2018,0,1061,0,South America:2018
-Spain,2014,9.801324503,0,0,Spain:2014
-Spain,2015,8.432671082,0,0,Spain:2015
-Spain,2016,8.233995585,0,0,Spain:2016
-Spain,2017,8.476821192,0,0,Spain:2017
-Spain,2018,9.050772627,0,0,Spain:2018
-Sudan,2014,0,690,0,Sudan:2014
-Sudan,2015,0,594,0,Sudan:2015
-Sudan,2016,0,641,0,Sudan:2016
-Sudan,2017,0,305,0,Sudan:2017
-Sudan,2018,0,705,0,Sudan:2018
-Suriname,2014,0,18,0,Suriname:2014
-Suriname,2015,0,16,0,Suriname:2015
-Suriname,2016,0,15,0,Suriname:2016
-Suriname,2017,0,10,0,Suriname:2017
-Suriname,2018,0,14,0,Suriname:2018
-Sweden,2014,9.072847682,0,0,Sweden:2014
-Sweden,2015,8.432671082,0,0,Sweden:2015
-Sweden,2016,7.682119205,0,0,Sweden:2016
-Sweden,2017,7.880794702,0,0,Sweden:2017
-Sweden,2018,7.152317881,0,0,Sweden:2018
-Switzerland,2014,0,2643,0,Switzerland:2014
-Switzerland,2015,0,2748,0,Switzerland:2015
-Switzerland,2016,0,2816,0,Switzerland:2016
-Switzerland,2017,0,2904,0,Switzerland:2017
-Switzerland,2018,0,3086.018913,0,Switzerland:2018
-Syrian Arab Republic,2014,0,463,0,Syrian Arab Republic:2014
-Syrian Arab Republic,2015,0,423,0,Syrian Arab Republic:2015
-Syrian Arab Republic,2016,0,403,0,Syrian Arab Republic:2016
-Syrian Arab Republic,2017,0,460,0,Syrian Arab Republic:2017
-Syrian Arab Republic,2018,0,460,0,Syrian Arab Republic:2018
-Taiwan,2014,0,583,0,Taiwan:2014
-Taiwan,2015,0,667,0,Taiwan:2015
-Taiwan,2016,0,698,0,Taiwan:2016
-Taiwan,2017,0,851,0,Taiwan:2017
-Taiwan,2018,0,789,0,Taiwan:2018
-Tonga,2014,0,1,0,Tonga:2014
-Tonga,2015,0,1,0,Tonga:2015
-Tonga,2016,0,1,0,Tonga:2016
-Tonga,2017,0,1,0,Tonga:2017
-Tonga,2018,0,1,0,Tonga:2018
-Tunisia,2014,0,460,0,Tunisia:2014
-Tunisia,2015,0,459,0,Tunisia:2015
-Tunisia,2016,0,466,0,Tunisia:2016
-Tunisia,2017,0,546,0,Tunisia:2017
-Tunisia,2018,0,532.966563,0,Tunisia:2018
-Turkey,2014,0,987,0,Turkey:2014
-Turkey,2015,0,1249,0,Turkey:2015
-Turkey,2016,0,1192,0,Turkey:2016
-Turkey,2017,0,1474,0,Turkey:2017
-Turkey,2018,0,1464,0,Turkey:2018
-Ukraine,2014,0,1291,0,Ukraine:2014
-Ukraine,2015,0,1155,0,Ukraine:2015
-Ukraine,2016,0,1184,0,Ukraine:2016
-Ukraine,2017,0,1147,0,Ukraine:2017
-Ukraine,2018,0,1338,0,Ukraine:2018
-United Arab Emirates,2014,0,463,0,United Arab Emirates:2014
-United Arab Emirates,2015,0,530,0,United Arab Emirates:2015
-United Arab Emirates,2016,0,606,0,United Arab Emirates:2016
-United Arab Emirates,2017,0,845,0,United Arab Emirates:2017
-United Arab Emirates,2018,0,1118,0,United Arab Emirates:2018
-United Kingdom,2014,45.38631347,0,0,United Kingdom:2014
-United Kingdom,2015,41.74392936,0,0,United Kingdom:2015
-United Kingdom,2016,35.9602649,0,0,United Kingdom:2016
-United Kingdom,2017,37.54966887,0,0,United Kingdom:2017
-United Kingdom,2018,40.61810155,0,0,United Kingdom:2018
-Uruguay,2014,0,59,0,Uruguay:2014
-Uruguay,2015,0,60,0,Uruguay:2015
-Uruguay,2016,0,55,0,Uruguay:2016
-Uruguay,2017,0,56,0,Uruguay:2017
-Uruguay,2018,0,57,0,Uruguay:2018
-USA,2014,0,27565,0,USA:2014
-USA,2015,0,27708,0,USA:2015
-USA,2016,0,28838,0,USA:2016
-USA,2017,0,29487.88646,0,USA:2017
-USA,2018,0,28918.20706,0,USA:2018
-USSR,2014,0,0,0,USSR:2014
-USSR,2015,0,0,0,USSR:2015
-USSR,2016,0,0,0,USSR:2016
-USSR,2017,0,0,0,USSR:2017
-USSR,2018,0,0,0,USSR:2018
-Vanuatu,2014,0,2,0,Vanuatu:2014
-Vanuatu,2015,0,1,0,Vanuatu:2015
-Vanuatu,2016,0,2,0,Vanuatu:2016
-Vanuatu,2017,0,4,0,Vanuatu:2017
-Vanuatu,2018,0,6,0,Vanuatu:2018
-Virgin Islands (UK),2014,0,0,0,Virgin Islands (UK):2014
-Virgin Islands (UK),2015,0,0,0,Virgin Islands (UK):2015
-Virgin Islands (UK),2016,0,0,0,Virgin Islands (UK):2016
-Virgin Islands (UK),2017,0,0,0,Virgin Islands (UK):2017
-Virgin Islands (UK),2018,0,0,0,Virgin Islands (UK):2018
-Yugoslavia,2014,0,0,0,Yugoslavia:2014
-Yugoslavia,2015,0,0,0,Yugoslavia:2015
-Yugoslavia,2016,0,0,0,Yugoslavia:2016
-Yugoslavia,2017,0,0,0,Yugoslavia:2017
-Yugoslavia,2018,0,0,0,Yugoslavia:2018
-Angola,2014,0,0,9.375,Angola:2014
-Angola,2015,0,0,10.515,Angola:2015
-Angola,2016,0,0,10.945,Angola:2016
-Angola,2017,0,0,9.055,Angola:2017
-Angola,2018,0,0,9.3233967,Angola:2018
-Bolivia,2014,0,0,61.7512667,Bolivia:2014
-Bolivia,2015,0,0,30.2801583,Bolivia:2015
-Bolivia,2016,0,0,22.4563417,Bolivia:2016
-Bolivia,2017,0,0,26.1199916,Bolivia:2017
-Bolivia,2018,0,0,22.4596336,Bolivia:2018
-Brazil,2014,0,0,37335.17283,Brazil:2014
-Brazil,2015,0,0,37562.84675,Brazil:2015
-Brazil,2016,0,0,34269.15025,Brazil:2016
-Brazil,2017,0,0,30924.56785,Brazil:2017
-Brazil,2018,0,0,35382.55649,Brazil:2018
-Burundi,2014,0,0,252.178,Burundi:2014
-Burundi,2015,0,0,230.18855,Burundi:2015
-Burundi,2016,0,0,261.2954333,Burundi:2016
-Burundi,2017,0,0,168.8762643,Burundi:2017
-Burundi,2018,0,0,201.7252364,Burundi:2018
-Côte d'Ivoire,2014,0,0,1489.15115,Côte d'Ivoire:2014
-Côte d'Ivoire,2015,0,0,1418.375167,Côte d'Ivoire:2015
-Côte d'Ivoire,2016,0,0,1432.0436,Côte d'Ivoire:2016
-Côte d'Ivoire,2017,0,0,854.6205832,Côte d'Ivoire:2017
-Côte d'Ivoire,2018,0,0,1522.457567,Côte d'Ivoire:2018
-Cameroon,2014,0,0,375.0338667,Cameroon:2014
-Cameroon,2015,0,0,390.1427167,Cameroon:2015
-Cameroon,2016,0,0,281.1289667,Cameroon:2016
-Cameroon,2017,0,0,245.0171167,Cameroon:2017
-Cameroon,2018,0,0,287.41525,Cameroon:2018
-Central African Republic,2014,0,0,75.027,Central African Republic:2014
-Central African Republic,2015,0,0,43.214,Central African Republic:2015
-Central African Republic,2016,0,0,80.018,Central African Republic:2016
-Central African Republic,2017,0,0,18.1126667,Central African Republic:2017
-Central African Republic,2018,0,0,38.528,Central African Republic:2018
-Colombia,2014,0,0,10954.40836,Colombia:2014
-Colombia,2015,0,0,12716.38467,Colombia:2015
-Colombia,2016,0,0,12831.39073,Colombia:2016
-Colombia,2017,0,0,12984.59575,Colombia:2017
-Colombia,2018,0,0,12807.97262,Colombia:2018
-Costa Rica,2014,0,0,1208.918498,Costa Rica:2014
-Costa Rica,2015,0,0,1128.190321,Costa Rica:2015
-Costa Rica,2016,0,0,1006.928354,Costa Rica:2016
-Costa Rica,2017,0,0,987.1546413,Costa Rica:2017
-Costa Rica,2018,0,0,1207.946296,Costa Rica:2018
-Cuba,2014,0,0,13.241,Cuba:2014
-Cuba,2015,0,0,12.79605,Cuba:2015
-Cuba,2016,0,0,15.4021,Cuba:2016
-Cuba,2017,0,0,15.1269672,Cuba:2017
-Cuba,2018,0,0,33.3468849,Cuba:2018
-Democratic Republic of Congo,2014,0,0,150.577,Democratic Republic of Congo:2014
-Democratic Republic of Congo,2015,0,0,128.285,Democratic Republic of Congo:2015
-Democratic Republic of Congo,2016,0,0,170.9553333,Democratic Republic of Congo:2016
-Democratic Republic of Congo,2017,0,0,88.6189908,Democratic Republic of Congo:2017
-Democratic Republic of Congo,2018,0,0,187.9996667,Democratic Republic of Congo:2018
-Dominican Republic,2014,0,0,44.8342722,Dominican Republic:2014
-Dominican Republic,2015,0,0,19.1439671,Dominican Republic:2015
-Dominican Republic,2016,0,0,19.3625362,Dominican Republic:2016
-Dominican Republic,2017,0,0,24.3960478,Dominican Republic:2017
-Dominican Republic,2018,0,0,32.2031773,Dominican Republic:2018
-Ecuador,2014,0,0,1129.165184,Ecuador:2014
-Ecuador,2015,0,0,869.0484943,Ecuador:2015
-Ecuador,2016,0,0,922.6263392,Ecuador:2016
-Ecuador,2017,0,0,695.1462968,Ecuador:2017
-Ecuador,2018,0,0,482.6993325,Ecuador:2018
-El Salvador,2014,0,0,461.64911,El Salvador:2014
-El Salvador,2015,0,0,575.8640571,El Salvador:2015
-El Salvador,2016,0,0,495.9930146,El Salvador:2016
-El Salvador,2017,0,0,527.1010812,El Salvador:2017
-El Salvador,2018,0,0,571.4240657,El Salvador:2018
-Ethiopia,2014,0,0,3116.69037,Ethiopia:2014
-Ethiopia,2015,0,0,2984.974817,Ethiopia:2015
-Ethiopia,2016,0,0,3000.72445,Ethiopia:2016
-Ethiopia,2017,0,0,3773.406333,Ethiopia:2017
-Ethiopia,2018,0,0,3589.04802,Ethiopia:2018
-Ghana,2014,0,0,26.4419779,Ghana:2014
-Ghana,2015,0,0,40.0215698,Ghana:2015
-Ghana,2016,0,0,26.8017133,Ghana:2016
-Ghana,2017,0,0,16.8556397,Ghana:2017
-Ghana,2018,0,0,12.400351,Ghana:2018
-Guatemala,2014,0,0,3043.438536,Guatemala:2014
-Guatemala,2015,0,0,2960.862008,Guatemala:2015
-Guatemala,2016,0,0,2991.120758,Guatemala:2016
-Guatemala,2017,0,0,3382.666191,Guatemala:2017
-Guatemala,2018,0,0,3327.489656,Guatemala:2018
-Guinea,2014,0,0,24.1208056,Guinea:2014
-Guinea,2015,0,0,151.692689,Guinea:2015
-Guinea,2016,0,0,250.0291659,Guinea:2016
-Guinea,2017,0,0,215.6914713,Guinea:2017
-Guinea,2018,0,0,156.5050078,Guinea:2018
-Guyana,2014,0,0,12.5399127,Guyana:2014
-Guyana,2015,0,0,1.9760867,Guyana:2015
-Guyana,2016,0,0,1.9671328,Guyana:2016
-Guyana,2017,0,0,0.8115381,Guyana:2017
-Guyana,2018,0,0,1.1789453,Guyana:2018
-Haiti,2014,0,0,3.1414734,Haiti:2014
-Haiti,2015,0,0,2.6611461,Haiti:2015
-Haiti,2016,0,0,1.2770179,Haiti:2016
-Haiti,2017,0,0,1.886211,Haiti:2017
-Haiti,2018,0,0,2.0191244,Haiti:2018
-Honduras,2014,0,0,4251.826667,Honduras:2014
-Honduras,2015,0,0,5029.667006,Honduras:2015
-Honduras,2016,0,0,5305.953308,Honduras:2016
-Honduras,2017,0,0,7340.843952,Honduras:2017
-Honduras,2018,0,0,7143.884471,Honduras:2018
-India,2014,0,0,5130.91427,India:2014
-India,2015,0,0,5262.293887,India:2015
-India,2016,0,0,6086.119737,India:2016
-India,2017,0,0,6541.501049,India:2017
-India,2018,0,0,5967.224604,India:2018
-Indonesia,2014,0,0,6174.809713,Indonesia:2014
-Indonesia,2015,0,0,8378.687596,Indonesia:2015
-Indonesia,2016,0,0,6545.392046,Indonesia:2016
-Indonesia,2017,0,0,8197.573974,Indonesia:2017
-Indonesia,2018,0,0,4538.839055,Indonesia:2018
-Jamaica,2014,0,0,10.2486926,Jamaica:2014
-Jamaica,2015,0,0,11.8739809,Jamaica:2015
-Jamaica,2016,0,0,11.2239986,Jamaica:2016
-Jamaica,2017,0,0,10.2324055,Jamaica:2017
-Jamaica,2018,0,0,9.7515687,Jamaica:2018
-Kenya,2014,0,0,798.7267892,Kenya:2014
-Kenya,2015,0,0,712.0561288,Kenya:2015
-Kenya,2016,0,0,727.0431516,Kenya:2016
-Kenya,2017,0,0,709.6382353,Kenya:2017
-Kenya,2018,0,0,753.0309147,Kenya:2018
-Lao People's Democratic Republic,2014,0,0,369.726347,Lao People's Democratic Republic:2014
-Lao People's Democratic Republic,2015,0,0,403.1699016,Lao People's Democratic Republic:2015
-Lao People's Democratic Republic,2016,0,0,385.7797409,Lao People's Democratic Republic:2016
-Lao People's Democratic Republic,2017,0,0,385.5876533,Lao People's Democratic Republic:2017
-Lao People's Democratic Republic,2018,0,0,361.0216345,Lao People's Democratic Republic:2018
-Liberia,2014,0,0,1.3456667,Liberia:2014
-Liberia,2015,0,0,3.5200001,Liberia:2015
-Liberia,2016,0,0,2.955,Liberia:2016
-Liberia,2017,0,0,11.0116667,Liberia:2017
-Liberia,2018,0,0,7.7333333,Liberia:2018
-Madagascar,2014,0,0,137.8095917,Madagascar:2014
-Madagascar,2015,0,0,59.3255179,Madagascar:2015
-Madagascar,2016,0,0,53.302978,Madagascar:2016
-Madagascar,2017,0,0,63.6632114,Madagascar:2017
-Madagascar,2018,0,0,6.4757661,Madagascar:2018
-Malawi,2014,0,0,25.5353073,Malawi:2014
-Malawi,2015,0,0,17.8592197,Malawi:2015
-Malawi,2016,0,0,22.1486775,Malawi:2016
-Malawi,2017,0,0,12.6223955,Malawi:2017
-Malawi,2018,0,0,12.079999,Malawi:2018
-Nepal,2014,0,0,0.8629222,Nepal:2014
-Nepal,2015,0,0,2.0245748,Nepal:2015
-Nepal,2016,0,0,2.0712779,Nepal:2016
-Nepal,2017,0,0,0.9745111,Nepal:2017
-Nepal,2018,0,0,1.8452526,Nepal:2018
-Nicaragua,2014,0,0,1900.637384,Nicaragua:2014
-Nicaragua,2015,0,0,1753.158785,Nicaragua:2015
-Nicaragua,2016,0,0,1963.467307,Nicaragua:2016
-Nicaragua,2017,0,0,2448.63793,Nicaragua:2017
-Nicaragua,2018,0,0,2300.035032,Nicaragua:2018
-Nigeria,2014,0,0,1.4323063,Nigeria:2014
-Nigeria,2015,0,0,2.8628523,Nigeria:2015
-Nigeria,2016,0,0,1.4005618,Nigeria:2016
-Nigeria,2017,0,0,2.57984,Nigeria:2017
-Nigeria,2018,0,0,3.0129175,Nigeria:2018
-Panama,2014,0,0,51.0247939,Panama:2014
-Panama,2015,0,0,49.7142205,Panama:2015
-Panama,2016,0,0,55.585032,Panama:2016
-Panama,2017,0,0,50.1411407,Panama:2017
-Panama,2018,0,0,46.8935146,Panama:2018
-Papua New Guinea,2014,0,0,806.83394,Papua New Guinea:2014
-Papua New Guinea,2015,0,0,711.4821,Papua New Guinea:2015
-Papua New Guinea,2016,0,0,1133.180307,Papua New Guinea:2016
-Papua New Guinea,2017,0,0,794.1003952,Papua New Guinea:2017
-Papua New Guinea,2018,0,0,869.9459834,Papua New Guinea:2018
-Paraguay,2014,0,0,0.0727681,Paraguay:2014
-Paraguay,2015,0,0,0,Paraguay:2015
-Paraguay,2016,0,0,0.0019833,Paraguay:2016
-Paraguay,2017,0,0,0.010452,Paraguay:2017
-Paraguay,2018,0,0,0.0135363,Paraguay:2018
-Peru,2014,0,0,2719.88985,Peru:2014
-Peru,2015,0,0,2789.83914,Peru:2015
-Peru,2016,0,0,3959.583593,Peru:2016
-Peru,2017,0,0,3945.823228,Peru:2017
-Peru,2018,0,0,4063.938661,Peru:2018
-Philippines,2014,0,0,12.0375383,Philippines:2014
-Philippines,2015,0,0,14.8310425,Philippines:2015
-Philippines,2016,0,0,12.9434741,Philippines:2016
-Philippines,2017,0,0,8.5486409,Philippines:2017
-Philippines,2018,0,0,3.9927242,Philippines:2018
-Rwanda,2014,0,0,255.6826782,Rwanda:2014
-Rwanda,2015,0,0,262.6835499,Rwanda:2015
-Rwanda,2016,0,0,244.3354621,Rwanda:2016
-Rwanda,2017,0,0,245.9412701,Rwanda:2017
-Rwanda,2018,0,0,265.6494903,Rwanda:2018
-Sierra Leone,2014,0,0,24.0319576,Sierra Leone:2014
-Sierra Leone,2015,0,0,54.0397454,Sierra Leone:2015
-Sierra Leone,2016,0,0,25.806877,Sierra Leone:2016
-Sierra Leone,2017,0,0,34.973872,Sierra Leone:2017
-Sierra Leone,2018,0,0,26.546347,Sierra Leone:2018
-Sri Lanka,2014,0,0,2.3383577,Sri Lanka:2014
-Sri Lanka,2015,0,0,0.482531,Sri Lanka:2015
-Sri Lanka,2016,0,0,1.4493613,Sri Lanka:2016
-Sri Lanka,2017,0,0,1.6893049,Sri Lanka:2017
-Sri Lanka,2018,0,0,1.5379155,Sri Lanka:2018
-Tanzania,2014,0,0,717.9569368,Tanzania:2014
-Tanzania,2015,0,0,708.912463,Tanzania:2015
-Tanzania,2016,0,0,904.7976535,Tanzania:2016
-Tanzania,2017,0,0,664.0793199,Tanzania:2017
-Tanzania,2018,0,0,856.0041365,Tanzania:2018
-Thailand,2014,0,0,27.3704621,Thailand:2014
-Thailand,2015,0,0,578.3290715,Thailand:2015
-Thailand,2016,0,0,130.9525718,Thailand:2016
-Thailand,2017,0,0,141.1263307,Thailand:2017
-Thailand,2018,0,0,258.1336572,Thailand:2018
-Timor-Leste,2014,0,0,111.0623633,Timor-Leste:2014
-Timor-Leste,2015,0,0,67.6860052,Timor-Leste:2015
-Timor-Leste,2016,0,0,67.8533082,Timor-Leste:2016
-Timor-Leste,2017,0,0,86.2778885,Timor-Leste:2017
-Timor-Leste,2018,0,0,128.6684667,Timor-Leste:2018
-Togo,2014,0,0,133.9686333,Togo:2014
-Togo,2015,0,0,178.1048167,Togo:2015
-Togo,2016,0,0,74.8768333,Togo:2016
-Togo,2017,0,0,27.3287667,Togo:2017
-Togo,2018,0,0,111.04435,Togo:2018
-Trinidad & Tobago,2014,0,0,2.137128,Trinidad & Tobago:2014
-Trinidad & Tobago,2015,0,0,1.9322738,Trinidad & Tobago:2015
-Trinidad & Tobago,2016,0,0,1.7645473,Trinidad & Tobago:2016
-Trinidad & Tobago,2017,0,0,1.7999997,Trinidad & Tobago:2017
-Trinidad & Tobago,2018,0,0,2.8705688,Trinidad & Tobago:2018
-Uganda,2014,0,0,3442.351,Uganda:2014
-Uganda,2015,0,0,3595.607,Uganda:2015
-Uganda,2016,0,0,3543.097,Uganda:2016
-Uganda,2017,0,0,4774.033,Uganda:2017
-Uganda,2018,0,0,4223.182,Uganda:2018
-Venezuela,2014,0,0,0.0820858,Venezuela:2014
-Venezuela,2015,0,0,0.50364,Venezuela:2015
-Venezuela,2016,0,0,0,Venezuela:2016
-Venezuela,2017,0,0,0,Venezuela:2017
-Venezuela,2018,0,0,71.7729963,Venezuela:2018
-Viet Nam,2014,0,0,26097.14416,Viet Nam:2014
-Viet Nam,2015,0,0,20654.5101,Viet Nam:2015
-Viet Nam,2016,0,0,27568.14168,Viet Nam:2016
-Viet Nam,2017,0,0,22439.36459,Viet Nam:2017
-Viet Nam,2018,0,0,27866.14159,Viet Nam:2018
-Yemen,2014,0,0,56.9890456,Yemen:2014
-Yemen,2015,0,0,52.2324134,Yemen:2015
-Yemen,2016,0,0,37.9012596,Yemen:2016
-Yemen,2017,0,0,46.4221011,Yemen:2017
-Yemen,2018,0,0,42.1181308,Yemen:2018
-Zambia,2014,0,0,5.2441874,Zambia:2014
-Zambia,2015,0,0,2.9395502,Zambia:2015
-Zambia,2016,0,0,9.7911194,Zambia:2016
-Zambia,2017,0,0,12.5689814,Zambia:2017
-Zambia,2018,0,0,26.168988,Zambia:2018
-Zimbabwe,2014,0,0,11.3021925,Zimbabwe:2014
-Zimbabwe,2015,0,0,11.0690096,Zimbabwe:2015
-Zimbabwe,2016,0,0,12.2870778,Zimbabwe:2016
-Zimbabwe,2017,0,0,2.3491934,Zimbabwe:2017
-Zimbabwe,2018,0,0,4.8053098,Zimbabwe:2018
+Country,Year,Price-USD,imports,exports,Country:Year,Latitude,Longitude
+Afghanistan,2014,0,8,0,Afghanistan:2014,,
+Afghanistan,2015,0,12,0,Afghanistan:2015,,
+Afghanistan,2016,0,11,0,Afghanistan:2016,,
+Afghanistan,2017,0,34,0,Afghanistan:2017,,
+Afghanistan,2018,0,39,0,Afghanistan:2018,,
+Africa,2014,0,5233,0,Africa:2014,,
+Africa,2015,0,5530,0,Africa:2015,,
+Africa,2016,0,5867,0,Africa:2016,,
+Africa,2017,0,5240,0,Africa:2017,,
+Africa,2018,0,6347,0,Africa:2018,,
+Albania,2014,0,123,0,Albania:2014,,
+Albania,2015,0,143,0,Albania:2015,,
+Albania,2016,0,154,0,Albania:2016,,
+Albania,2017,0,155,0,Albania:2017,,
+Albania,2018,0,125,0,Albania:2018,,
+Algeria,2014,0,2154,0,Algeria:2014,,
+Algeria,2015,0,2159,0,Algeria:2015,,
+Algeria,2016,0,2323,0,Algeria:2016,,
+Algeria,2017,0,2190,0,Algeria:2017,,
+Algeria,2018,0,2206,0,Algeria:2018,,
+Anguilla,2014,0,0,0,Anguilla:2014,,
+Anguilla,2015,0,0,0,Anguilla:2015,,
+Anguilla,2016,0,0,0,Anguilla:2016,,
+Anguilla,2017,0,0,0,Anguilla:2017,,
+Anguilla,2018,0,0,0,Anguilla:2018,,
+Antigua and Barbuda,2014,0,2,0,Antigua and Barbuda:2014,,
+Antigua and Barbuda,2015,0,3,0,Antigua and Barbuda:2015,,
+Antigua and Barbuda,2016,0,2,0,Antigua and Barbuda:2016,,
+Antigua and Barbuda,2017,0,4,0,Antigua and Barbuda:2017,,
+Antigua and Barbuda,2018,0,4,0,Antigua and Barbuda:2018,,
+Argentina,2014,0,562,0,Argentina:2014,,
+Argentina,2015,0,632,0,Argentina:2015,,
+Argentina,2016,0,524,0,Argentina:2016,,
+Argentina,2017,0,627,0,Argentina:2017,,
+Argentina,2018,0,599,0,Argentina:2018,,
+Armenia,2014,0,194,0,Armenia:2014,,
+Armenia,2015,0,201,0,Armenia:2015,,
+Armenia,2016,0,207,0,Armenia:2016,,
+Armenia,2017,0,207,0,Armenia:2017,,
+Armenia,2018,0,205,0,Armenia:2018,,
+Aruba,2014,0,4,0,Aruba:2014,,
+Aruba,2015,0,5,0,Aruba:2015,,
+Aruba,2016,0,3,0,Aruba:2016,,
+Aruba,2017,0,5,0,Aruba:2017,,
+Aruba,2018,0,8,0,Aruba:2018,,
+Asia & Oceania,2014,0,15438,0,Asia & Oceania:2014,,
+Asia & Oceania,2015,0,16702,0,Asia & Oceania:2015,,
+Asia & Oceania,2016,0,17296,0,Asia & Oceania:2016,,
+Asia & Oceania,2017,0,19840,0,Asia & Oceania:2017,,
+Asia & Oceania,2018,0,20290,0,Asia & Oceania:2018,,
+Australia,2014,0,1681,0,Australia:2014,,
+Australia,2015,0,1920,0,Australia:2015,,
+Australia,2016,0,1881,0,Australia:2016,,
+Australia,2017,0,2078,0,Australia:2017,,
+Australia,2018,0,2071,0,Australia:2018,,
+Austria,2014,19.05077263,0,0,Austria:2014,47.51669707,9.766701588
+Austria,2015,16.42384106,0,0,Austria:2015,47.51669707,9.766701588
+Austria,2016,12.45033113,0,0,Austria:2016,47.51669707,9.766701588
+Austria,2017,13.73068433,0,0,Austria:2017,47.51669707,9.766701588
+Austria,2018,14.63576159,0,0,Austria:2018,47.51669707,9.766701588
+Azerbaijan,2014,0,11,0,Azerbaijan:2014,,
+Azerbaijan,2015,0,13,0,Azerbaijan:2015,,
+Azerbaijan,2016,0,16,0,Azerbaijan:2016,,
+Azerbaijan,2017,0,19,0,Azerbaijan:2017,,
+Azerbaijan,2018,0,31,0,Azerbaijan:2018,,
+Bahamas,2014,0,13,0,Bahamas:2014,,
+Bahamas,2015,0,17,0,Bahamas:2015,,
+Bahamas,2016,0,13,0,Bahamas:2016,,
+Bahamas,2017,0,11,0,Bahamas:2017,,
+Bahamas,2018,0,7,0,Bahamas:2018,,
+Bahrain,2014,0,31,0,Bahrain:2014,,
+Bahrain,2015,0,22,0,Bahrain:2015,,
+Bahrain,2016,0,21,0,Bahrain:2016,,
+Bahrain,2017,0,27,0,Bahrain:2017,,
+Bahrain,2018,0,33,0,Bahrain:2018,,
+Bangladesh,2014,0,16,0,Bangladesh:2014,,
+Bangladesh,2015,0,19,0,Bangladesh:2015,,
+Bangladesh,2016,0,23,0,Bangladesh:2016,,
+Bangladesh,2017,0,91,0,Bangladesh:2017,,
+Bangladesh,2018,0,116,0,Bangladesh:2018,,
+Barbados,2014,0,5,0,Barbados:2014,,
+Barbados,2015,0,6,0,Barbados:2015,,
+Barbados,2016,0,5,0,Barbados:2016,,
+Barbados,2017,0,5,0,Barbados:2017,,
+Barbados,2018,0,7,0,Barbados:2018,,
+Belarus,2014,0,257,0,Belarus:2014,,
+Belarus,2015,0,259,0,Belarus:2015,,
+Belarus,2016,0,275,0,Belarus:2016,,
+Belarus,2017,0,333,0,Belarus:2017,,
+Belarus,2018,0,383,0,Belarus:2018,,
+Belgium,2014,0,0,0,Belgium:2014,,
+Belgium,2015,0,0,0,Belgium:2015,,
+Belgium,2016,0,0,0,Belgium:2016,,
+Belgium,2017,0,0,0,Belgium:2017,,
+Belgium,2018,0,0,0,Belgium:2018,,
+Belgium/Luxembourg,2014,0,0,0,Belgium/Luxembourg:2014,,
+Belgium/Luxembourg,2015,0,0,0,Belgium/Luxembourg:2015,,
+Belgium/Luxembourg,2016,0,0,0,Belgium/Luxembourg:2016,,
+Belgium/Luxembourg,2017,0,0,0,Belgium/Luxembourg:2017,,
+Belgium/Luxembourg,2018,0,0,0,Belgium/Luxembourg:2018,,
+Belize,2014,0,9,0,Belize:2014,,
+Belize,2015,0,14,0,Belize:2015,,
+Belize,2016,0,14,0,Belize:2016,,
+Belize,2017,0,16,0,Belize:2017,,
+Belize,2018,0,23,0,Belize:2018,,
+Bermuda,2014,0,10,0,Bermuda:2014,,
+Bermuda,2015,0,8,0,Bermuda:2015,,
+Bermuda,2016,0,5,0,Bermuda:2016,,
+Bermuda,2017,0,5,0,Bermuda:2017,,
+Bermuda,2018,0,5,0,Bermuda:2018,,
+Bosnia and Herzegovina,2014,0,392,0,Bosnia and Herzegovina:2014,,
+Bosnia and Herzegovina,2015,0,408,0,Bosnia and Herzegovina:2015,,
+Bosnia and Herzegovina,2016,0,405,0,Bosnia and Herzegovina:2016,,
+Bosnia and Herzegovina,2017,0,391,0,Bosnia and Herzegovina:2017,,
+Bosnia and Herzegovina,2018,0,403,0,Bosnia and Herzegovina:2018,,
+Botswana,2014,0,21,0,Botswana:2014,,
+Botswana,2015,0,33,0,Botswana:2015,,
+Botswana,2016,0,23,0,Botswana:2016,,
+Botswana,2017,0,21,0,Botswana:2017,,
+Botswana,2018,0,6,0,Botswana:2018,,
+Brunei Darussalam,2014,0,46,0,Brunei Darussalam:2014,,
+Brunei Darussalam,2015,0,59,0,Brunei Darussalam:2015,,
+Brunei Darussalam,2016,0,57,0,Brunei Darussalam:2016,,
+Brunei Darussalam,2017,0,45,0,Brunei Darussalam:2017,,
+Brunei Darussalam,2018,0,62,0,Brunei Darussalam:2018,,
+Bulgaria,2014,0,0,0,Bulgaria:2014,,
+Bulgaria,2015,0,0,0,Bulgaria:2015,,
+Bulgaria,2016,0,0,0,Bulgaria:2016,,
+Bulgaria,2017,0,0,0,Bulgaria:2017,,
+Bulgaria,2018,0,0,0,Bulgaria:2018,,
+Burkina Faso,2014,0,83,0,Burkina Faso:2014,,
+Burkina Faso,2015,0,128,0,Burkina Faso:2015,,
+Burkina Faso,2016,0,92,0,Burkina Faso:2016,,
+Burkina Faso,2017,0,107,0,Burkina Faso:2017,,
+Burkina Faso,2018,0,241,0,Burkina Faso:2018,,
+Cambodia,2014,0,25,0,Cambodia:2014,,
+Cambodia,2015,0,24,0,Cambodia:2015,,
+Cambodia,2016,0,36,0,Cambodia:2016,,
+Cambodia,2017,0,98,0,Cambodia:2017,,
+Cambodia,2018,0,118,0,Cambodia:2018,,
+Canada,2014,0,4981,0,Canada:2014,,
+Canada,2015,0,4698,0,Canada:2015,,
+Canada,2016,0,4873,0,Canada:2016,,
+Canada,2017,0,5098,0,Canada:2017,,
+Canada,2018,0,5114,0,Canada:2018,,
+Cape Verde,2014,0,11,0,Cape Verde:2014,,
+Cape Verde,2015,0,11,0,Cape Verde:2015,,
+Cape Verde,2016,0,12,0,Cape Verde:2016,,
+Cape Verde,2017,0,14,0,Cape Verde:2017,,
+Cape Verde,2018,0,14,0,Cape Verde:2018,,
+Caribbean,2014,0,243,0,Caribbean:2014,,
+Caribbean,2015,0,237,0,Caribbean:2015,,
+Caribbean,2016,0,223,0,Caribbean:2016,,
+Caribbean,2017,0,164,0,Caribbean:2017,,
+Caribbean,2018,0,169,0,Caribbean:2018,,
+Cayman Islands,2014,0,3,0,Cayman Islands:2014,,
+Cayman Islands,2015,0,3,0,Cayman Islands:2015,,
+Cayman Islands,2016,0,4,0,Cayman Islands:2016,,
+Cayman Islands,2017,0,13,0,Cayman Islands:2017,,
+Cayman Islands,2018,0,12,0,Cayman Islands:2018,,
+Central America & Mexico,2014,0,18,2479.526809,Central America & Mexico:2014,,
+Central America & Mexico,2015,0,22,2457.996501,Central America & Mexico:2015,,
+Central America & Mexico,2016,0,19,2232.913073,Central America & Mexico:2016,,
+Central America & Mexico,2017,0,21,2910.649965,Central America & Mexico:2017,,
+Central America & Mexico,2018,0,28,2888.140482,Central America & Mexico:2018,,
+Chad,2014,0,0,0,Chad:2014,,
+Chad,2015,0,1,0,Chad:2015,,
+Chad,2016,0,1,0,Chad:2016,,
+Chad,2017,0,3,0,Chad:2017,,
+Chad,2018,0,12,0,Chad:2018,,
+Chile,2014,0,347,0,Chile:2014,,
+Chile,2015,0,348,0,Chile:2015,,
+Chile,2016,0,352,0,Chile:2016,,
+Chile,2017,0,376,0,Chile:2017,,
+Chile,2018,0,392,0,Chile:2018,,
+China (Mainland),2014,0,1262,0,China (Mainland):2014,,
+China (Mainland),2015,0,1188,0,China (Mainland):2015,,
+China (Mainland),2016,0,1708,0,China (Mainland):2016,,
+China (Mainland),2017,0,2146,0,China (Mainland):2017,,
+China (Mainland),2018,0,1456,0,China (Mainland):2018,,
+"China, People's Republic of",2014,0,1540,0,"China, People's Republic of:2014",,
+"China, People's Republic of",2015,0,1518,0,"China, People's Republic of:2015",,
+"China, People's Republic of",2016,0,2087,0,"China, People's Republic of:2016",,
+"China, People's Republic of",2017,0,2585,0,"China, People's Republic of:2017",,
+"China, People's Republic of",2018,0,2226,0,"China, People's Republic of:2018",,
+Comoros,2014,0,0,0,Comoros:2014,,
+Comoros,2015,0,0,0,Comoros:2015,,
+Comoros,2016,0,1,0,Comoros:2016,,
+Comoros,2017,0,1,0,Comoros:2017,,
+Comoros,2018,0,2,0,Comoros:2018,,
+Cook Islands,2014,0,1,0,Cook Islands:2014,,
+Cook Islands,2015,0,1,0,Cook Islands:2015,,
+Cook Islands,2016,0,1,0,Cook Islands:2016,,
+Cook Islands,2017,0,2,0,Cook Islands:2017,,
+Cook Islands,2018,0,1,0,Cook Islands:2018,,
+Croatia,2014,0,0,0,Croatia:2014,,
+Croatia,2015,0,0,0,Croatia:2015,,
+Croatia,2016,0,0,0,Croatia:2016,,
+Croatia,2017,0,0,0,Croatia:2017,,
+Croatia,2018,0,0,0,Croatia:2018,,
+Cyprus,2014,14.30463576,0,0,Cyprus:2014,34.9170031,33.63599757
+Cyprus,2015,11.69977925,0,0,Cyprus:2015,34.9170031,33.63599757
+Cyprus,2016,11.69977925,0,0,Cyprus:2016,34.9170031,33.63599757
+Cyprus,2017,12.14128035,0,0,Cyprus:2017,34.9170031,33.63599757
+Cyprus,2018,12.78145695,0,0,Cyprus:2018,34.9170031,33.63599757
+Czech Republic,2014,0,0,0,Czech Republic:2014,,
+Czech Republic,2015,0,0,0,Czech Republic:2015,,
+Czech Republic,2016,0,0,0,Czech Republic:2016,,
+Czech Republic,2017,0,0,0,Czech Republic:2017,,
+Czech Republic,2018,0,0,0,Czech Republic:2018,,
+Denmark,2014,14.19426049,0,0,Denmark:2014,55.70900103,9.534996498
+Denmark,2015,12.91390728,0,0,Denmark:2015,55.70900103,9.534996498
+Denmark,2016,10.90507726,0,0,Denmark:2016,55.70900103,9.534996498
+Denmark,2017,11.10375276,0,0,Denmark:2017,55.70900103,9.534996498
+Denmark,2018,11.69977925,0,0,Denmark:2018,55.70900103,9.534996498
+Djibouti,2014,0,21,0,Djibouti:2014,,
+Djibouti,2015,0,32,0,Djibouti:2015,,
+Djibouti,2016,0,26,0,Djibouti:2016,,
+Djibouti,2017,0,46,0,Djibouti:2017,,
+Djibouti,2018,0,37,0,Djibouti:2018,,
+Dominica,2014,0,6,0,Dominica:2014,,
+Dominica,2015,0,1,0,Dominica:2015,,
+Dominica,2016,0,0,0,Dominica:2016,,
+Dominica,2017,0,1,0,Dominica:2017,,
+Dominica,2018,0,0,0,Dominica:2018,,
+Egypt,2014,0,593,0,Egypt:2014,,
+Egypt,2015,0,726,0,Egypt:2015,,
+Egypt,2016,0,918,0,Egypt:2016,,
+Egypt,2017,0,566,0,Egypt:2017,,
+Egypt,2018,0,700,0,Egypt:2018,,
+Estonia,2014,0,0,0,Estonia:2014,,
+Estonia,2015,0,0,0,Estonia:2015,,
+Estonia,2016,0,0,0,Estonia:2016,,
+Estonia,2017,0,0,0,Estonia:2017,,
+Estonia,2018,0,0,0,Estonia:2018,,
+Eswatini,2014,0,9,0,Eswatini:2014,,
+Eswatini,2015,0,16,0,Eswatini:2015,,
+Eswatini,2016,0,12,0,Eswatini:2016,,
+Eswatini,2017,0,7,0,Eswatini:2017,,
+Eswatini,2018,0,8,0,Eswatini:2018,,
+Europe,2014,0,3129,0,Europe:2014,,
+Europe,2015,0,2965,0,Europe:2015,,
+Europe,2016,0,3135,0,Europe:2016,,
+Europe,2017,0,3113,0,Europe:2017,,
+Europe,2018,0,3324,0,Europe:2018,,
+Fiji,2014,0,2,0,Fiji:2014,,
+Fiji,2015,0,2,0,Fiji:2015,,
+Fiji,2016,0,2,0,Fiji:2016,,
+Fiji,2017,0,4,0,Fiji:2017,,
+Fiji,2018,0,3,0,Fiji:2018,,
+Finland,2014,9.514348786,0,0,Finland:2014,60.99699611,24.47199954
+Finland,2015,8.609271523,0,0,Finland:2015,60.99699611,24.47199954
+Finland,2016,8.101545254,0,0,Finland:2016,60.99699611,24.47199954
+Finland,2017,9.050772627,0,0,Finland:2017,60.99699611,24.47199954
+Finland,2018,9.3598234,0,0,Finland:2018,60.99699611,24.47199954
+France,2014,8.322295806,0,0,France:2014,45.89997479,6.116670287
+France,2015,6.865342163,0,0,France:2015,45.89997479,6.116670287
+France,2016,7.196467991,0,0,France:2016,45.89997479,6.116670287
+France,2017,7.505518764,0,0,France:2017,45.89997479,6.116670287
+France,2018,8.123620309,0,0,France:2018,45.89997479,6.116670287
+Gambia,2014,0,6,0,Gambia:2014,,
+Gambia,2015,0,10,0,Gambia:2015,,
+Gambia,2016,0,8,0,Gambia:2016,,
+Gambia,2017,0,5,0,Gambia:2017,,
+Gambia,2018,0,35,0,Gambia:2018,,
+Georgia,2014,0,168,0,Georgia:2014,,
+Georgia,2015,0,184,0,Georgia:2015,,
+Georgia,2016,0,187,0,Georgia:2016,,
+Georgia,2017,0,195,0,Georgia:2017,,
+Georgia,2018,0,193,0,Georgia:2018,,
+Germany,2014,12.62693157,0,0,Germany:2014,49.98247246,8.273219156
+Germany,2015,11.43487859,0,0,Germany:2015,49.98247246,8.273219156
+Germany,2016,11.14790287,0,0,Germany:2016,49.98247246,8.273219156
+Germany,2017,11.78807947,0,0,Germany:2017,49.98247246,8.273219156
+Germany,2018,12.1192053,0,0,Germany:2018,49.98247246,8.273219156
+Gibraltar,2014,0,0,0,Gibraltar:2014,,
+Gibraltar,2015,0,2,0,Gibraltar:2015,,
+Gibraltar,2016,0,0,0,Gibraltar:2016,,
+Gibraltar,2017,0,3,0,Gibraltar:2017,,
+Gibraltar,2018,0,3,0,Gibraltar:2018,,
+Greece,2014,0,0,0,Greece:2014,,
+Greece,2015,0,0,0,Greece:2015,,
+Greece,2016,0,0,0,Greece:2016,,
+Greece,2017,0,0,0,Greece:2017,,
+Greece,2018,0,0,0,Greece:2018,,
+Grenada,2014,0,1,0,Grenada:2014,,
+Grenada,2015,0,1,0,Grenada:2015,,
+Grenada,2016,0,1,0,Grenada:2016,,
+Grenada,2017,0,0,0,Grenada:2017,,
+Grenada,2018,0,0,0,Grenada:2018,,
+Guinea-Bissau,2014,0,1,0,Guinea-Bissau:2014,,
+Guinea-Bissau,2015,0,2,0,Guinea-Bissau:2015,,
+Guinea-Bissau,2016,0,2,0,Guinea-Bissau:2016,,
+Guinea-Bissau,2017,0,7,0,Guinea-Bissau:2017,,
+Guinea-Bissau,2018,0,7,0,Guinea-Bissau:2018,,
+Holy See,2014,0,0,0,Holy See:2014,,
+Holy See,2015,0,0,0,Holy See:2015,,
+Holy See,2016,0,0,0,Holy See:2016,,
+Holy See,2017,0,0,0,Holy See:2017,,
+Holy See,2018,0,0,0,Holy See:2018,,
+Hong Kong,2014,0,249,0,Hong Kong:2014,,
+Hong Kong,2015,0,298,0,Hong Kong:2015,,
+Hong Kong,2016,0,346,0,Hong Kong:2016,,
+Hong Kong,2017,0,403,0,Hong Kong:2017,,
+Hong Kong,2018,0,721,0,Hong Kong:2018,,
+Hungary,2014,0,0,0,Hungary:2014,,
+Hungary,2015,0,0,0,Hungary:2015,,
+Hungary,2016,0,0,0,Hungary:2016,,
+Hungary,2017,0,0,0,Hungary:2017,,
+Hungary,2018,0,0,0,Hungary:2018,,
+Iceland,2014,0,47,0,Iceland:2014,,
+Iceland,2015,0,50,0,Iceland:2015,,
+Iceland,2016,0,54,0,Iceland:2016,,
+Iceland,2017,0,52,0,Iceland:2017,,
+Iceland,2018,0,51,0,Iceland:2018,,
+"Iran, Islamic Rep. of",2014,0,82,0,"Iran, Islamic Rep. of:2014",,
+"Iran, Islamic Rep. of",2015,0,102,0,"Iran, Islamic Rep. of:2015",,
+"Iran, Islamic Rep. of",2016,0,161,0,"Iran, Islamic Rep. of:2016",,
+"Iran, Islamic Rep. of",2017,0,208,0,"Iran, Islamic Rep. of:2017",,
+"Iran, Islamic Rep. of",2018,0,245,0,"Iran, Islamic Rep. of:2018",,
+Iraq,2014,0,37,0,Iraq:2014,,
+Iraq,2015,0,33,0,Iraq:2015,,
+Iraq,2016,0,53,0,Iraq:2016,,
+Iraq,2017,0,176,0,Iraq:2017,,
+Iraq,2018,0,224,0,Iraq:2018,,
+Ireland,2014,0,0,0,Ireland:2014,,
+Ireland,2015,0,0,0,Ireland:2015,,
+Ireland,2016,0,0,0,Ireland:2016,,
+Ireland,2017,0,0,0,Ireland:2017,,
+Ireland,2018,0,0,0,Ireland:2018,,
+Israel,2014,0,592,0,Israel:2014,,
+Israel,2015,0,620,0,Israel:2015,,
+Israel,2016,0,599,0,Israel:2016,,
+Israel,2017,0,719,0,Israel:2017,,
+Israel,2018,0,734,0,Israel:2018,,
+Italy,2014,19.53642384,0,0,Italy:2014,40.64200213,15.7989965
+Italy,2015,16.51214128,0,0,Italy:2015,40.64200213,15.7989965
+Italy,2016,16.44591611,0,0,Italy:2016,40.64200213,15.7989965
+Italy,2017,16.93156733,0,0,Italy:2017,40.64200213,15.7989965
+Italy,2018,17.92494481,0,0,Italy:2018,40.64200213,15.7989965
+Japan,2014,12.53863135,7657,0,Japan:2014,34.67202964,133.9170865
+Japan,2015,12.36203091,8063,0,Japan:2015,34.67202964,133.9170865
+Japan,2016,13.70860927,8026,0,Japan:2016,34.67202964,133.9170865
+Japan,2017,13.13465784,7647,0,Japan:2017,34.67202964,133.9170865
+Japan,2018,12.80353201,7539.981823,0,Japan:2018,34.67202964,133.9170865
+Jordan,2014,0,566,0,Jordan:2014,,
+Jordan,2015,0,564,0,Jordan:2015,,
+Jordan,2016,0,636,0,Jordan:2016,,
+Jordan,2017,0,673,0,Jordan:2017,,
+Jordan,2018,0,816,0,Jordan:2018,,
+Kazakhstan,2014,0,131,0,Kazakhstan:2014,,
+Kazakhstan,2015,0,128,0,Kazakhstan:2015,,
+Kazakhstan,2016,0,145,0,Kazakhstan:2016,,
+Kazakhstan,2017,0,182,0,Kazakhstan:2017,,
+Kazakhstan,2018,0,206,0,Kazakhstan:2018,,
+Kiribati,2014,0,1,0,Kiribati:2014,,
+Kiribati,2015,0,0,0,Kiribati:2015,,
+Kiribati,2016,0,1,0,Kiribati:2016,,
+Kiribati,2017,0,2,0,Kiribati:2017,,
+Kiribati,2018,0,2,0,Kiribati:2018,,
+"Korea, Dem. People's Rep. of",2014,0,44,0,"Korea, Dem. People's Rep. of:2014",,
+"Korea, Dem. People's Rep. of",2015,0,47,0,"Korea, Dem. People's Rep. of:2015",,
+"Korea, Dem. People's Rep. of",2016,0,20,0,"Korea, Dem. People's Rep. of:2016",,
+"Korea, Dem. People's Rep. of",2017,0,27,0,"Korea, Dem. People's Rep. of:2017",,
+"Korea, Dem. People's Rep. of",2018,0,41,0,"Korea, Dem. People's Rep. of:2018",,
+"Korea, Rep. of",2014,0,2419,0,"Korea, Rep. of:2014",,
+"Korea, Rep. of",2015,0,2518,0,"Korea, Rep. of:2015",,
+"Korea, Rep. of",2016,0,2780,0,"Korea, Rep. of:2016",,
+"Korea, Rep. of",2017,0,2893,0,"Korea, Rep. of:2017",,
+"Korea, Rep. of",2018,0,2899,0,"Korea, Rep. of:2018",,
+Kuwait,2014,0,156,0,Kuwait:2014,,
+Kuwait,2015,0,164,0,Kuwait:2015,,
+Kuwait,2016,0,222,0,Kuwait:2016,,
+Kuwait,2017,0,209,0,Kuwait:2017,,
+Kuwait,2018,0,262,0,Kuwait:2018,,
+Kyrgyz Republic,2014,0,20,0,Kyrgyz Republic:2014,,
+Kyrgyz Republic,2015,0,21,0,Kyrgyz Republic:2015,,
+Kyrgyz Republic,2016,0,40,0,Kyrgyz Republic:2016,,
+Kyrgyz Republic,2017,0,22,0,Kyrgyz Republic:2017,,
+Kyrgyz Republic,2018,0,19,0,Kyrgyz Republic:2018,,
+Latvia,2014,0,0,0,Latvia:2014,,
+Latvia,2015,0,0,0,Latvia:2015,,
+Latvia,2016,0,0,0,Latvia:2016,,
+Latvia,2017,0,0,0,Latvia:2017,,
+Latvia,2018,0,0,0,Latvia:2018,,
+Lebanon,2014,0,612,0,Lebanon:2014,,
+Lebanon,2015,0,646,0,Lebanon:2015,,
+Lebanon,2016,0,639,0,Lebanon:2016,,
+Lebanon,2017,0,620,0,Lebanon:2017,,
+Lebanon,2018,0,643,0,Lebanon:2018,,
+Lesotho,2014,0,4,0,Lesotho:2014,,
+Lesotho,2015,0,4,0,Lesotho:2015,,
+Lesotho,2016,0,4,0,Lesotho:2016,,
+Lesotho,2017,0,11,0,Lesotho:2017,,
+Lesotho,2018,0,7,0,Lesotho:2018,,
+Libya,2014,0,197,0,Libya:2014,,
+Libya,2015,0,214,0,Libya:2015,,
+Libya,2016,0,175,0,Libya:2016,,
+Libya,2017,0,212,0,Libya:2017,,
+Libya,2018,0,281,0,Libya:2018,,
+Lithuania,2014,0,0,0,Lithuania:2014,,
+Lithuania,2015,0,0,0,Lithuania:2015,,
+Lithuania,2016,0,0,0,Lithuania:2016,,
+Lithuania,2017,0,0,0,Lithuania:2017,,
+Lithuania,2018,0,0,0,Lithuania:2018,,
+Luxembourg,2014,0,0,0,Luxembourg:2014,,
+Luxembourg,2015,0,0,0,Luxembourg:2015,,
+Luxembourg,2016,0,0,0,Luxembourg:2016,,
+Luxembourg,2017,0,0,0,Luxembourg:2017,,
+Luxembourg,2018,0,0,0,Luxembourg:2018,,
+Macao,2014,0,28,0,Macao:2014,,
+Macao,2015,0,31,0,Macao:2015,,
+Macao,2016,0,33,0,Macao:2016,,
+Macao,2017,0,37,0,Macao:2017,,
+Macao,2018,0,48,0,Macao:2018,,
+Malaysia,2014,0,1823,0,Malaysia:2014,,
+Malaysia,2015,0,1844,0,Malaysia:2015,,
+Malaysia,2016,0,1948,0,Malaysia:2016,,
+Malaysia,2017,0,2044,0,Malaysia:2017,,
+Malaysia,2018,0,2324,0,Malaysia:2018,,
+Mali,2014,0,24,0,Mali:2014,,
+Mali,2015,0,47,0,Mali:2015,,
+Mali,2016,0,55,0,Mali:2016,,
+Mali,2017,0,49,0,Mali:2017,,
+Mali,2018,0,87,0,Mali:2018,,
+Malta,2014,0,0,0,Malta:2014,,
+Malta,2015,0,0,0,Malta:2015,,
+Malta,2016,0,0,0,Malta:2016,,
+Malta,2017,0,0,0,Malta:2017,,
+Malta,2018,0,0,0,Malta:2018,,
+Mauritania,2014,0,7,0,Mauritania:2014,,
+Mauritania,2015,0,12,0,Mauritania:2015,,
+Mauritania,2016,0,13,0,Mauritania:2016,,
+Mauritania,2017,0,16,0,Mauritania:2017,,
+Mauritania,2018,0,100,0,Mauritania:2018,,
+Mauritius,2014,0,14,0,Mauritius:2014,,
+Mauritius,2015,0,11,0,Mauritius:2015,,
+Mauritius,2016,0,17,0,Mauritius:2016,,
+Mauritius,2017,0,28,0,Mauritius:2017,,
+Mauritius,2018,0,28,0,Mauritius:2018,,
+"Micronesia, Fed. States of",2014,0,5,0,"Micronesia, Fed. States of:2014",,
+"Micronesia, Fed. States of",2015,0,5,0,"Micronesia, Fed. States of:2015",,
+"Micronesia, Fed. States of",2016,0,4,0,"Micronesia, Fed. States of:2016",,
+"Micronesia, Fed. States of",2017,0,2,0,"Micronesia, Fed. States of:2017",,
+"Micronesia, Fed. States of",2018,0,3,0,"Micronesia, Fed. States of:2018",,
+Moldova,2014,0,45,0,Moldova:2014,,
+Moldova,2015,0,40,0,Moldova:2015,,
+Moldova,2016,0,51,0,Moldova:2016,,
+Moldova,2017,0,52,0,Moldova:2017,,
+Moldova,2018,0,61,0,Moldova:2018,,
+Mongolia,2014,0,24,0,Mongolia:2014,,
+Mongolia,2015,0,26,0,Mongolia:2015,,
+Mongolia,2016,0,27,0,Mongolia:2016,,
+Mongolia,2017,0,32,0,Mongolia:2017,,
+Mongolia,2018,0,33,0,Mongolia:2018,,
+Montenegro,2014,0,65,0,Montenegro:2014,,
+Montenegro,2015,0,65,0,Montenegro:2015,,
+Montenegro,2016,0,59,0,Montenegro:2016,,
+Montenegro,2017,0,59,0,Montenegro:2017,,
+Montenegro,2018,0,59,0,Montenegro:2018,,
+Montserrat,2014,0,0,0,Montserrat:2014,,
+Montserrat,2015,0,0,0,Montserrat:2015,,
+Montserrat,2016,0,0,0,Montserrat:2016,,
+Montserrat,2017,0,0,0,Montserrat:2017,,
+Montserrat,2018,0,0,0,Montserrat:2018,,
+Morocco,2014,0,630,0,Morocco:2014,,
+Morocco,2015,0,662,0,Morocco:2015,,
+Morocco,2016,0,680,0,Morocco:2016,,
+Morocco,2017,0,706,0,Morocco:2017,,
+Morocco,2018,0,917,0,Morocco:2018,,
+Mozambique,2014,0,11,0,Mozambique:2014,,
+Mozambique,2015,0,8,0,Mozambique:2015,,
+Mozambique,2016,0,13,0,Mozambique:2016,,
+Mozambique,2017,0,16,0,Mozambique:2017,,
+Mozambique,2018,0,7,0,Mozambique:2018,,
+Myanmar,2014,0,202,0,Myanmar:2014,,
+Myanmar,2015,0,210,0,Myanmar:2015,,
+Myanmar,2016,0,172,0,Myanmar:2016,,
+Myanmar,2017,0,391,0,Myanmar:2017,,
+Myanmar,2018,0,362,0,Myanmar:2018,,
+Namibia,2014,0,38,0,Namibia:2014,,
+Namibia,2015,0,53,0,Namibia:2015,,
+Namibia,2016,0,30,0,Namibia:2016,,
+Namibia,2017,0,43,0,Namibia:2017,,
+Namibia,2018,0,24,0,Namibia:2018,,
+Netherlands,2014,12.60485651,6,0,Netherlands:2014,53.00000109,6.550002585
+Netherlands,2015,11.87637969,6,0,Netherlands:2015,53.00000109,6.550002585
+Netherlands,2016,10.52980132,6,0,Netherlands:2016,53.00000109,6.550002585
+Netherlands,2017,10.66225166,6,0,Netherlands:2017,53.00000109,6.550002585
+Netherlands,2018,10.33112583,6,0,Netherlands:2018,53.00000109,6.550002585
+New Zealand,2014,0,329,0,New Zealand:2014,,
+New Zealand,2015,0,359,0,New Zealand:2015,,
+New Zealand,2016,0,348,0,New Zealand:2016,,
+New Zealand,2017,0,376,0,New Zealand:2017,,
+New Zealand,2018,0,405,0,New Zealand:2018,,
+Niger,2014,0,24,0,Niger:2014,,
+Niger,2015,0,25,0,Niger:2015,,
+Niger,2016,0,12,0,Niger:2016,,
+Niger,2017,0,11,0,Niger:2017,,
+Niger,2018,0,9,0,Niger:2018,,
+North America,2014,0,4981,0,North America:2014,,
+North America,2015,0,4698,0,North America:2015,,
+North America,2016,0,4873,0,North America:2016,,
+North America,2017,0,5098,0,North America:2017,,
+North America,2018,0,5114,0,North America:2018,,
+North Macedonia,2014,0,145,0,North Macedonia:2014,,
+North Macedonia,2015,0,147,0,North Macedonia:2015,,
+North Macedonia,2016,0,153,0,North Macedonia:2016,,
+North Macedonia,2017,0,151,0,North Macedonia:2017,,
+North Macedonia,2018,0,159,0,North Macedonia:2018,,
+Norway,2014,16.55629139,743,0,Norway:2014,58.46475606,8.766000553
+Norway,2015,12.82560706,800,0,Norway:2015,58.46475606,8.766000553
+Norway,2016,12.27373068,799,0,Norway:2016,58.46475606,8.766000553
+Norway,2017,12.42825607,801,0,Norway:2017,58.46475606,8.766000553
+Norway,2018,12.69315673,743.340422,0,Norway:2018,58.46475606,8.766000553
+Oman,2014,0,115,0,Oman:2014,,
+Oman,2015,0,102,0,Oman:2015,,
+Oman,2016,0,99,0,Oman:2016,,
+Oman,2017,0,69,0,Oman:2017,,
+Oman,2018,0,166,0,Oman:2018,,
+Pakistan,2014,0,18,0,Pakistan:2014,,
+Pakistan,2015,0,13,0,Pakistan:2015,,
+Pakistan,2016,0,12,0,Pakistan:2016,,
+Pakistan,2017,0,26,0,Pakistan:2017,,
+Pakistan,2018,0,23,0,Pakistan:2018,,
+Poland,2014,0,0,0,Poland:2014,,
+Poland,2015,0,0,0,Poland:2015,,
+Poland,2016,0,0,0,Poland:2016,,
+Poland,2017,0,0,0,Poland:2017,,
+Poland,2018,0,0,0,Poland:2018,,
+Portugal,2014,12.64900662,0,0,Portugal:2014,40.64100311,-8.650997534
+Portugal,2015,11.01545254,0,0,Portugal:2015,40.64100311,-8.650997534
+Portugal,2016,10.88300221,0,0,Portugal:2016,40.64100311,-8.650997534
+Portugal,2017,11.12582781,0,0,Portugal:2017,40.64100311,-8.650997534
+Portugal,2018,11.83222958,0,0,Portugal:2018,40.64100311,-8.650997534
+Puerto Rico,2014,0,199,0,Puerto Rico:2014,,
+Puerto Rico,2015,0,191,0,Puerto Rico:2015,,
+Puerto Rico,2016,0,185,0,Puerto Rico:2016,,
+Puerto Rico,2017,0,115,0,Puerto Rico:2017,,
+Puerto Rico,2018,0,122,0,Puerto Rico:2018,,
+Qatar,2014,0,44,0,Qatar:2014,,
+Qatar,2015,0,55,0,Qatar:2015,,
+Qatar,2016,0,75,0,Qatar:2016,,
+Qatar,2017,0,95,0,Qatar:2017,,
+Qatar,2018,0,65,0,Qatar:2018,,
+Romania,2014,0,0,0,Romania:2014,,
+Romania,2015,0,0,0,Romania:2015,,
+Romania,2016,0,0,0,Romania:2016,,
+Romania,2017,0,0,0,Romania:2017,,
+Romania,2018,0,0,0,Romania:2018,,
+Russian Federation,2014,0,4747,0,Russian Federation:2014,,
+Russian Federation,2015,0,4710,0,Russian Federation:2015,,
+Russian Federation,2016,0,5233,0,Russian Federation:2016,,
+Russian Federation,2017,0,5468,0,Russian Federation:2017,,
+Russian Federation,2018,0,5287.541562,0,Russian Federation:2018,,
+Saint Kitts and Nevis,2014,0,0,0,Saint Kitts and Nevis:2014,,
+Saint Kitts and Nevis,2015,0,0,0,Saint Kitts and Nevis:2015,,
+Saint Kitts and Nevis,2016,0,0,0,Saint Kitts and Nevis:2016,,
+Saint Kitts and Nevis,2017,0,1,0,Saint Kitts and Nevis:2017,,
+Saint Kitts and Nevis,2018,0,0,0,Saint Kitts and Nevis:2018,,
+Saint Lucia,2014,0,2,0,Saint Lucia:2014,,
+Saint Lucia,2015,0,2,0,Saint Lucia:2015,,
+Saint Lucia,2016,0,2,0,Saint Lucia:2016,,
+Saint Lucia,2017,0,3,0,Saint Lucia:2017,,
+Saint Lucia,2018,0,1,0,Saint Lucia:2018,,
+Saint Vincent & the Grenadines,2014,0,1,0,Saint Vincent & the Grenadines:2014,,
+Saint Vincent & the Grenadines,2015,0,1,0,Saint Vincent & the Grenadines:2015,,
+Saint Vincent & the Grenadines,2016,0,1,0,Saint Vincent & the Grenadines:2016,,
+Saint Vincent & the Grenadines,2017,0,0,0,Saint Vincent & the Grenadines:2017,,
+Saint Vincent & the Grenadines,2018,0,1,0,Saint Vincent & the Grenadines:2018,,
+Samoa,2014,0,12,0,Samoa:2014,,
+Samoa,2015,0,14,0,Samoa:2015,,
+Samoa,2016,0,16,0,Samoa:2016,,
+Samoa,2017,0,14,0,Samoa:2017,,
+Samoa,2018,0,20,0,Samoa:2018,,
+Sao Tome and Principe,2014,0,0,0,Sao Tome and Principe:2014,,
+Sao Tome and Principe,2015,0,0,0,Sao Tome and Principe:2015,,
+Sao Tome and Principe,2016,0,0,0,Sao Tome and Principe:2016,,
+Sao Tome and Principe,2017,0,0,0,Sao Tome and Principe:2017,,
+Sao Tome and Principe,2018,0,0,0,Sao Tome and Principe:2018,,
+Saudi Arabia,2014,0,1383,0,Saudi Arabia:2014,,
+Saudi Arabia,2015,0,1684,0,Saudi Arabia:2015,,
+Saudi Arabia,2016,0,1371,0,Saudi Arabia:2016,,
+Saudi Arabia,2017,0,1532,0,Saudi Arabia:2017,,
+Saudi Arabia,2018,0,1246,0,Saudi Arabia:2018,,
+Senegal,2014,0,58,0,Senegal:2014,,
+Senegal,2015,0,84,0,Senegal:2015,,
+Senegal,2016,0,157,0,Senegal:2016,,
+Senegal,2017,0,161,0,Senegal:2017,,
+Senegal,2018,0,153,0,Senegal:2018,,
+Serbia,2014,0,594,0,Serbia:2014,,
+Serbia,2015,0,511,0,Serbia:2015,,
+Serbia,2016,0,611,0,Serbia:2016,,
+Serbia,2017,0,576,0,Serbia:2017,,
+Serbia,2018,0,550,0,Serbia:2018,,
+Seychelles,2014,0,2,0,Seychelles:2014,,
+Seychelles,2015,0,4,0,Seychelles:2015,,
+Seychelles,2016,0,4,0,Seychelles:2016,,
+Seychelles,2017,0,4,0,Seychelles:2017,,
+Seychelles,2018,0,4,0,Seychelles:2018,,
+Singapore,2014,0,767,0,Singapore:2014,,
+Singapore,2015,0,874,0,Singapore:2015,,
+Singapore,2016,0,681,0,Singapore:2016,,
+Singapore,2017,0,699,0,Singapore:2017,,
+Singapore,2018,0,807,0,Singapore:2018,,
+Slovakia,2014,0,0,0,Slovakia:2014,,
+Slovakia,2015,0,0,0,Slovakia:2015,,
+Slovakia,2016,0,0,0,Slovakia:2016,,
+Slovakia,2017,0,0,0,Slovakia:2017,,
+Slovakia,2018,0,0,0,Slovakia:2018,,
+Slovenia,2014,0,0,0,Slovenia:2014,,
+Slovenia,2015,0,0,0,Slovenia:2015,,
+Slovenia,2016,0,0,0,Slovenia:2016,,
+Slovenia,2017,0,0,0,Slovenia:2017,,
+Slovenia,2018,0,0,0,Slovenia:2018,,
+Solomon Islands,2014,0,7,0,Solomon Islands:2014,,
+Solomon Islands,2015,0,10,0,Solomon Islands:2015,,
+Solomon Islands,2016,0,3,0,Solomon Islands:2016,,
+Solomon Islands,2017,0,2,0,Solomon Islands:2017,,
+Solomon Islands,2018,0,1,0,Solomon Islands:2018,,
+Somalia,2014,0,0,0,Somalia:2014,,
+Somalia,2015,0,2,0,Somalia:2015,,
+Somalia,2016,0,1,0,Somalia:2016,,
+Somalia,2017,0,1,0,Somalia:2017,,
+Somalia,2018,0,2,0,Somalia:2018,,
+"South Africa, Rep.of",2014,0,635,0,"South Africa, Rep.of:2014",,
+"South Africa, Rep.of",2015,0,693,0,"South Africa, Rep.of:2015",,
+"South Africa, Rep.of",2016,0,644,0,"South Africa, Rep.of:2016",,
+"South Africa, Rep.of",2017,0,712,0,"South Africa, Rep.of:2017",,
+"South Africa, Rep.of",2018,0,756,0,"South Africa, Rep.of:2018",,
+South America,2014,0,986,0,South America:2014,,
+South America,2015,0,1056,0,South America:2015,,
+South America,2016,0,946,0,South America:2016,,
+South America,2017,0,1070,0,South America:2017,,
+South America,2018,0,1061,0,South America:2018,,
+Spain,2014,9.801324503,0,0,Spain:2014,38.91200402,-6.337997512
+Spain,2015,8.432671082,0,0,Spain:2015,38.91200402,-6.337997512
+Spain,2016,8.233995585,0,0,Spain:2016,38.91200402,-6.337997512
+Spain,2017,8.476821192,0,0,Spain:2017,38.91200402,-6.337997512
+Spain,2018,9.050772627,0,0,Spain:2018,38.91200402,-6.337997512
+Sudan,2014,0,690,0,Sudan:2014,,
+Sudan,2015,0,594,0,Sudan:2015,,
+Sudan,2016,0,641,0,Sudan:2016,,
+Sudan,2017,0,305,0,Sudan:2017,,
+Sudan,2018,0,705,0,Sudan:2018,,
+Suriname,2014,0,18,0,Suriname:2014,,
+Suriname,2015,0,16,0,Suriname:2015,,
+Suriname,2016,0,15,0,Suriname:2016,,
+Suriname,2017,0,10,0,Suriname:2017,,
+Suriname,2018,0,14,0,Suriname:2018,,
+Sweden,2014,9.072847682,0,0,Sweden:2014,60.61300204,15.64700455
+Sweden,2015,8.432671082,0,0,Sweden:2015,60.61300204,15.64700455
+Sweden,2016,7.682119205,0,0,Sweden:2016,60.61300204,15.64700455
+Sweden,2017,7.880794702,0,0,Sweden:2017,60.61300204,15.64700455
+Sweden,2018,7.152317881,0,0,Sweden:2018,60.61300204,15.64700455
+Switzerland,2014,0,2643,0,Switzerland:2014,,
+Switzerland,2015,0,2748,0,Switzerland:2015,,
+Switzerland,2016,0,2816,0,Switzerland:2016,,
+Switzerland,2017,0,2904,0,Switzerland:2017,,
+Switzerland,2018,0,3086.018913,0,Switzerland:2018,,
+Syrian Arab Republic,2014,0,463,0,Syrian Arab Republic:2014,,
+Syrian Arab Republic,2015,0,423,0,Syrian Arab Republic:2015,,
+Syrian Arab Republic,2016,0,403,0,Syrian Arab Republic:2016,,
+Syrian Arab Republic,2017,0,460,0,Syrian Arab Republic:2017,,
+Syrian Arab Republic,2018,0,460,0,Syrian Arab Republic:2018,,
+Taiwan,2014,0,583,0,Taiwan:2014,,
+Taiwan,2015,0,667,0,Taiwan:2015,,
+Taiwan,2016,0,698,0,Taiwan:2016,,
+Taiwan,2017,0,851,0,Taiwan:2017,,
+Taiwan,2018,0,789,0,Taiwan:2018,,
+Tonga,2014,0,1,0,Tonga:2014,,
+Tonga,2015,0,1,0,Tonga:2015,,
+Tonga,2016,0,1,0,Tonga:2016,,
+Tonga,2017,0,1,0,Tonga:2017,,
+Tonga,2018,0,1,0,Tonga:2018,,
+Tunisia,2014,0,460,0,Tunisia:2014,,
+Tunisia,2015,0,459,0,Tunisia:2015,,
+Tunisia,2016,0,466,0,Tunisia:2016,,
+Tunisia,2017,0,546,0,Tunisia:2017,,
+Tunisia,2018,0,532.966563,0,Tunisia:2018,,
+Turkey,2014,0,987,0,Turkey:2014,,
+Turkey,2015,0,1249,0,Turkey:2015,,
+Turkey,2016,0,1192,0,Turkey:2016,,
+Turkey,2017,0,1474,0,Turkey:2017,,
+Turkey,2018,0,1464,0,Turkey:2018,,
+Ukraine,2014,0,1291,0,Ukraine:2014,,
+Ukraine,2015,0,1155,0,Ukraine:2015,,
+Ukraine,2016,0,1184,0,Ukraine:2016,,
+Ukraine,2017,0,1147,0,Ukraine:2017,,
+Ukraine,2018,0,1338,0,Ukraine:2018,,
+United Arab Emirates,2014,0,463,0,United Arab Emirates:2014,,
+United Arab Emirates,2015,0,530,0,United Arab Emirates:2015,,
+United Arab Emirates,2016,0,606,0,United Arab Emirates:2016,,
+United Arab Emirates,2017,0,845,0,United Arab Emirates:2017,,
+United Arab Emirates,2018,0,1118,0,United Arab Emirates:2018,,
+United Kingdom,2014,45.38631347,0,0,United Kingdom:2014,55.93329002,-4.750030763
+United Kingdom,2015,41.74392936,0,0,United Kingdom:2015,55.93329002,-4.750030763
+United Kingdom,2016,35.9602649,0,0,United Kingdom:2016,55.93329002,-4.750030763
+United Kingdom,2017,37.54966887,0,0,United Kingdom:2017,55.93329002,-4.750030763
+United Kingdom,2018,40.61810155,0,0,United Kingdom:2018,55.93329002,-4.750030763
+Uruguay,2014,0,59,0,Uruguay:2014,,
+Uruguay,2015,0,60,0,Uruguay:2015,,
+Uruguay,2016,0,55,0,Uruguay:2016,,
+Uruguay,2017,0,56,0,Uruguay:2017,,
+Uruguay,2018,0,57,0,Uruguay:2018,,
+USA,2014,0,27565,0,USA:2014,,
+USA,2015,0,27708,0,USA:2015,,
+USA,2016,0,28838,0,USA:2016,,
+USA,2017,0,29487.88646,0,USA:2017,,
+USA,2018,0,28918.20706,0,USA:2018,,
+USSR,2014,0,0,0,USSR:2014,,
+USSR,2015,0,0,0,USSR:2015,,
+USSR,2016,0,0,0,USSR:2016,,
+USSR,2017,0,0,0,USSR:2017,,
+USSR,2018,0,0,0,USSR:2018,,
+Vanuatu,2014,0,2,0,Vanuatu:2014,,
+Vanuatu,2015,0,1,0,Vanuatu:2015,,
+Vanuatu,2016,0,2,0,Vanuatu:2016,,
+Vanuatu,2017,0,4,0,Vanuatu:2017,,
+Vanuatu,2018,0,6,0,Vanuatu:2018,,
+Virgin Islands (UK),2014,0,0,0,Virgin Islands (UK):2014,,
+Virgin Islands (UK),2015,0,0,0,Virgin Islands (UK):2015,,
+Virgin Islands (UK),2016,0,0,0,Virgin Islands (UK):2016,,
+Virgin Islands (UK),2017,0,0,0,Virgin Islands (UK):2017,,
+Virgin Islands (UK),2018,0,0,0,Virgin Islands (UK):2018,,
+Yugoslavia,2014,0,0,0,Yugoslavia:2014,,
+Yugoslavia,2015,0,0,0,Yugoslavia:2015,,
+Yugoslavia,2016,0,0,0,Yugoslavia:2016,,
+Yugoslavia,2017,0,0,0,Yugoslavia:2017,,
+Yugoslavia,2018,0,0,0,Yugoslavia:2018,,
+Angola,2014,0,0,9.375,Angola:2014,,
+Angola,2015,0,0,10.515,Angola:2015,,
+Angola,2016,0,0,10.945,Angola:2016,,
+Angola,2017,0,0,9.055,Angola:2017,,
+Angola,2018,0,0,9.3233967,Angola:2018,,
+Bolivia,2014,0,0,61.7512667,Bolivia:2014,,
+Bolivia,2015,0,0,30.2801583,Bolivia:2015,,
+Bolivia,2016,0,0,22.4563417,Bolivia:2016,,
+Bolivia,2017,0,0,26.1199916,Bolivia:2017,,
+Bolivia,2018,0,0,22.4596336,Bolivia:2018,,
+Brazil,2014,0,0,37335.17283,Brazil:2014,,
+Brazil,2015,0,0,37562.84675,Brazil:2015,,
+Brazil,2016,0,0,34269.15025,Brazil:2016,,
+Brazil,2017,0,0,30924.56785,Brazil:2017,,
+Brazil,2018,0,0,35382.55649,Brazil:2018,,
+Burundi,2014,0,0,252.178,Burundi:2014,,
+Burundi,2015,0,0,230.18855,Burundi:2015,,
+Burundi,2016,0,0,261.2954333,Burundi:2016,,
+Burundi,2017,0,0,168.8762643,Burundi:2017,,
+Burundi,2018,0,0,201.7252364,Burundi:2018,,
+Côte d'Ivoire,2014,0,0,1489.15115,Côte d'Ivoire:2014,,
+Côte d'Ivoire,2015,0,0,1418.375167,Côte d'Ivoire:2015,,
+Côte d'Ivoire,2016,0,0,1432.0436,Côte d'Ivoire:2016,,
+Côte d'Ivoire,2017,0,0,854.6205832,Côte d'Ivoire:2017,,
+Côte d'Ivoire,2018,0,0,1522.457567,Côte d'Ivoire:2018,,
+Cameroon,2014,0,0,375.0338667,Cameroon:2014,,
+Cameroon,2015,0,0,390.1427167,Cameroon:2015,,
+Cameroon,2016,0,0,281.1289667,Cameroon:2016,,
+Cameroon,2017,0,0,245.0171167,Cameroon:2017,,
+Cameroon,2018,0,0,287.41525,Cameroon:2018,,
+Central African Republic,2014,0,0,75.027,Central African Republic:2014,,
+Central African Republic,2015,0,0,43.214,Central African Republic:2015,,
+Central African Republic,2016,0,0,80.018,Central African Republic:2016,,
+Central African Republic,2017,0,0,18.1126667,Central African Republic:2017,,
+Central African Republic,2018,0,0,38.528,Central African Republic:2018,,
+Colombia,2014,0,0,10954.40836,Colombia:2014,,
+Colombia,2015,0,0,12716.38467,Colombia:2015,,
+Colombia,2016,0,0,12831.39073,Colombia:2016,,
+Colombia,2017,0,0,12984.59575,Colombia:2017,,
+Colombia,2018,0,0,12807.97262,Colombia:2018,,
+Costa Rica,2014,0,0,1208.918498,Costa Rica:2014,,
+Costa Rica,2015,0,0,1128.190321,Costa Rica:2015,,
+Costa Rica,2016,0,0,1006.928354,Costa Rica:2016,,
+Costa Rica,2017,0,0,987.1546413,Costa Rica:2017,,
+Costa Rica,2018,0,0,1207.946296,Costa Rica:2018,,
+Cuba,2014,0,0,13.241,Cuba:2014,,
+Cuba,2015,0,0,12.79605,Cuba:2015,,
+Cuba,2016,0,0,15.4021,Cuba:2016,,
+Cuba,2017,0,0,15.1269672,Cuba:2017,,
+Cuba,2018,0,0,33.3468849,Cuba:2018,,
+Democratic Republic of Congo,2014,0,0,150.577,Democratic Republic of Congo:2014,,
+Democratic Republic of Congo,2015,0,0,128.285,Democratic Republic of Congo:2015,,
+Democratic Republic of Congo,2016,0,0,170.9553333,Democratic Republic of Congo:2016,,
+Democratic Republic of Congo,2017,0,0,88.6189908,Democratic Republic of Congo:2017,,
+Democratic Republic of Congo,2018,0,0,187.9996667,Democratic Republic of Congo:2018,,
+Dominican Republic,2014,0,0,44.8342722,Dominican Republic:2014,,
+Dominican Republic,2015,0,0,19.1439671,Dominican Republic:2015,,
+Dominican Republic,2016,0,0,19.3625362,Dominican Republic:2016,,
+Dominican Republic,2017,0,0,24.3960478,Dominican Republic:2017,,
+Dominican Republic,2018,0,0,32.2031773,Dominican Republic:2018,,
+Ecuador,2014,0,0,1129.165184,Ecuador:2014,,
+Ecuador,2015,0,0,869.0484943,Ecuador:2015,,
+Ecuador,2016,0,0,922.6263392,Ecuador:2016,,
+Ecuador,2017,0,0,695.1462968,Ecuador:2017,,
+Ecuador,2018,0,0,482.6993325,Ecuador:2018,,
+El Salvador,2014,0,0,461.64911,El Salvador:2014,,
+El Salvador,2015,0,0,575.8640571,El Salvador:2015,,
+El Salvador,2016,0,0,495.9930146,El Salvador:2016,,
+El Salvador,2017,0,0,527.1010812,El Salvador:2017,,
+El Salvador,2018,0,0,571.4240657,El Salvador:2018,,
+Ethiopia,2014,0,0,3116.69037,Ethiopia:2014,,
+Ethiopia,2015,0,0,2984.974817,Ethiopia:2015,,
+Ethiopia,2016,0,0,3000.72445,Ethiopia:2016,,
+Ethiopia,2017,0,0,3773.406333,Ethiopia:2017,,
+Ethiopia,2018,0,0,3589.04802,Ethiopia:2018,,
+Ghana,2014,0,0,26.4419779,Ghana:2014,,
+Ghana,2015,0,0,40.0215698,Ghana:2015,,
+Ghana,2016,0,0,26.8017133,Ghana:2016,,
+Ghana,2017,0,0,16.8556397,Ghana:2017,,
+Ghana,2018,0,0,12.400351,Ghana:2018,,
+Guatemala,2014,0,0,3043.438536,Guatemala:2014,,
+Guatemala,2015,0,0,2960.862008,Guatemala:2015,,
+Guatemala,2016,0,0,2991.120758,Guatemala:2016,,
+Guatemala,2017,0,0,3382.666191,Guatemala:2017,,
+Guatemala,2018,0,0,3327.489656,Guatemala:2018,,
+Guinea,2014,0,0,24.1208056,Guinea:2014,,
+Guinea,2015,0,0,151.692689,Guinea:2015,,
+Guinea,2016,0,0,250.0291659,Guinea:2016,,
+Guinea,2017,0,0,215.6914713,Guinea:2017,,
+Guinea,2018,0,0,156.5050078,Guinea:2018,,
+Guyana,2014,0,0,12.5399127,Guyana:2014,,
+Guyana,2015,0,0,1.9760867,Guyana:2015,,
+Guyana,2016,0,0,1.9671328,Guyana:2016,,
+Guyana,2017,0,0,0.8115381,Guyana:2017,,
+Guyana,2018,0,0,1.1789453,Guyana:2018,,
+Haiti,2014,0,0,3.1414734,Haiti:2014,,
+Haiti,2015,0,0,2.6611461,Haiti:2015,,
+Haiti,2016,0,0,1.2770179,Haiti:2016,,
+Haiti,2017,0,0,1.886211,Haiti:2017,,
+Haiti,2018,0,0,2.0191244,Haiti:2018,,
+Honduras,2014,0,0,4251.826667,Honduras:2014,,
+Honduras,2015,0,0,5029.667006,Honduras:2015,,
+Honduras,2016,0,0,5305.953308,Honduras:2016,,
+Honduras,2017,0,0,7340.843952,Honduras:2017,,
+Honduras,2018,0,0,7143.884471,Honduras:2018,,
+India,2014,0,0,5130.91427,India:2014,,
+India,2015,0,0,5262.293887,India:2015,,
+India,2016,0,0,6086.119737,India:2016,,
+India,2017,0,0,6541.501049,India:2017,,
+India,2018,0,0,5967.224604,India:2018,,
+Indonesia,2014,0,0,6174.809713,Indonesia:2014,,
+Indonesia,2015,0,0,8378.687596,Indonesia:2015,,
+Indonesia,2016,0,0,6545.392046,Indonesia:2016,,
+Indonesia,2017,0,0,8197.573974,Indonesia:2017,,
+Indonesia,2018,0,0,4538.839055,Indonesia:2018,,
+Jamaica,2014,0,0,10.2486926,Jamaica:2014,,
+Jamaica,2015,0,0,11.8739809,Jamaica:2015,,
+Jamaica,2016,0,0,11.2239986,Jamaica:2016,,
+Jamaica,2017,0,0,10.2324055,Jamaica:2017,,
+Jamaica,2018,0,0,9.7515687,Jamaica:2018,,
+Kenya,2014,0,0,798.7267892,Kenya:2014,,
+Kenya,2015,0,0,712.0561288,Kenya:2015,,
+Kenya,2016,0,0,727.0431516,Kenya:2016,,
+Kenya,2017,0,0,709.6382353,Kenya:2017,,
+Kenya,2018,0,0,753.0309147,Kenya:2018,,
+Lao People's Democratic Republic,2014,0,0,369.726347,Lao People's Democratic Republic:2014,,
+Lao People's Democratic Republic,2015,0,0,403.1699016,Lao People's Democratic Republic:2015,,
+Lao People's Democratic Republic,2016,0,0,385.7797409,Lao People's Democratic Republic:2016,,
+Lao People's Democratic Republic,2017,0,0,385.5876533,Lao People's Democratic Republic:2017,,
+Lao People's Democratic Republic,2018,0,0,361.0216345,Lao People's Democratic Republic:2018,,
+Liberia,2014,0,0,1.3456667,Liberia:2014,,
+Liberia,2015,0,0,3.5200001,Liberia:2015,,
+Liberia,2016,0,0,2.955,Liberia:2016,,
+Liberia,2017,0,0,11.0116667,Liberia:2017,,
+Liberia,2018,0,0,7.7333333,Liberia:2018,,
+Madagascar,2014,0,0,137.8095917,Madagascar:2014,,
+Madagascar,2015,0,0,59.3255179,Madagascar:2015,,
+Madagascar,2016,0,0,53.302978,Madagascar:2016,,
+Madagascar,2017,0,0,63.6632114,Madagascar:2017,,
+Madagascar,2018,0,0,6.4757661,Madagascar:2018,,
+Malawi,2014,0,0,25.5353073,Malawi:2014,,
+Malawi,2015,0,0,17.8592197,Malawi:2015,,
+Malawi,2016,0,0,22.1486775,Malawi:2016,,
+Malawi,2017,0,0,12.6223955,Malawi:2017,,
+Malawi,2018,0,0,12.079999,Malawi:2018,,
+Nepal,2014,0,0,0.8629222,Nepal:2014,,
+Nepal,2015,0,0,2.0245748,Nepal:2015,,
+Nepal,2016,0,0,2.0712779,Nepal:2016,,
+Nepal,2017,0,0,0.9745111,Nepal:2017,,
+Nepal,2018,0,0,1.8452526,Nepal:2018,,
+Nicaragua,2014,0,0,1900.637384,Nicaragua:2014,,
+Nicaragua,2015,0,0,1753.158785,Nicaragua:2015,,
+Nicaragua,2016,0,0,1963.467307,Nicaragua:2016,,
+Nicaragua,2017,0,0,2448.63793,Nicaragua:2017,,
+Nicaragua,2018,0,0,2300.035032,Nicaragua:2018,,
+Nigeria,2014,0,0,1.4323063,Nigeria:2014,,
+Nigeria,2015,0,0,2.8628523,Nigeria:2015,,
+Nigeria,2016,0,0,1.4005618,Nigeria:2016,,
+Nigeria,2017,0,0,2.57984,Nigeria:2017,,
+Nigeria,2018,0,0,3.0129175,Nigeria:2018,,
+Panama,2014,0,0,51.0247939,Panama:2014,,
+Panama,2015,0,0,49.7142205,Panama:2015,,
+Panama,2016,0,0,55.585032,Panama:2016,,
+Panama,2017,0,0,50.1411407,Panama:2017,,
+Panama,2018,0,0,46.8935146,Panama:2018,,
+Papua New Guinea,2014,0,0,806.83394,Papua New Guinea:2014,,
+Papua New Guinea,2015,0,0,711.4821,Papua New Guinea:2015,,
+Papua New Guinea,2016,0,0,1133.180307,Papua New Guinea:2016,,
+Papua New Guinea,2017,0,0,794.1003952,Papua New Guinea:2017,,
+Papua New Guinea,2018,0,0,869.9459834,Papua New Guinea:2018,,
+Paraguay,2014,0,0,0.0727681,Paraguay:2014,,
+Paraguay,2015,0,0,0,Paraguay:2015,,
+Paraguay,2016,0,0,0.0019833,Paraguay:2016,,
+Paraguay,2017,0,0,0.010452,Paraguay:2017,,
+Paraguay,2018,0,0,0.0135363,Paraguay:2018,,
+Peru,2014,0,0,2719.88985,Peru:2014,,
+Peru,2015,0,0,2789.83914,Peru:2015,,
+Peru,2016,0,0,3959.583593,Peru:2016,,
+Peru,2017,0,0,3945.823228,Peru:2017,,
+Peru,2018,0,0,4063.938661,Peru:2018,,
+Philippines,2014,0,0,12.0375383,Philippines:2014,,
+Philippines,2015,0,0,14.8310425,Philippines:2015,,
+Philippines,2016,0,0,12.9434741,Philippines:2016,,
+Philippines,2017,0,0,8.5486409,Philippines:2017,,
+Philippines,2018,0,0,3.9927242,Philippines:2018,,
+Rwanda,2014,0,0,255.6826782,Rwanda:2014,,
+Rwanda,2015,0,0,262.6835499,Rwanda:2015,,
+Rwanda,2016,0,0,244.3354621,Rwanda:2016,,
+Rwanda,2017,0,0,245.9412701,Rwanda:2017,,
+Rwanda,2018,0,0,265.6494903,Rwanda:2018,,
+Sierra Leone,2014,0,0,24.0319576,Sierra Leone:2014,,
+Sierra Leone,2015,0,0,54.0397454,Sierra Leone:2015,,
+Sierra Leone,2016,0,0,25.806877,Sierra Leone:2016,,
+Sierra Leone,2017,0,0,34.973872,Sierra Leone:2017,,
+Sierra Leone,2018,0,0,26.546347,Sierra Leone:2018,,
+Sri Lanka,2014,0,0,2.3383577,Sri Lanka:2014,,
+Sri Lanka,2015,0,0,0.482531,Sri Lanka:2015,,
+Sri Lanka,2016,0,0,1.4493613,Sri Lanka:2016,,
+Sri Lanka,2017,0,0,1.6893049,Sri Lanka:2017,,
+Sri Lanka,2018,0,0,1.5379155,Sri Lanka:2018,,
+Tanzania,2014,0,0,717.9569368,Tanzania:2014,,
+Tanzania,2015,0,0,708.912463,Tanzania:2015,,
+Tanzania,2016,0,0,904.7976535,Tanzania:2016,,
+Tanzania,2017,0,0,664.0793199,Tanzania:2017,,
+Tanzania,2018,0,0,856.0041365,Tanzania:2018,,
+Thailand,2014,0,0,27.3704621,Thailand:2014,,
+Thailand,2015,0,0,578.3290715,Thailand:2015,,
+Thailand,2016,0,0,130.9525718,Thailand:2016,,
+Thailand,2017,0,0,141.1263307,Thailand:2017,,
+Thailand,2018,0,0,258.1336572,Thailand:2018,,
+Timor-Leste,2014,0,0,111.0623633,Timor-Leste:2014,,
+Timor-Leste,2015,0,0,67.6860052,Timor-Leste:2015,,
+Timor-Leste,2016,0,0,67.8533082,Timor-Leste:2016,,
+Timor-Leste,2017,0,0,86.2778885,Timor-Leste:2017,,
+Timor-Leste,2018,0,0,128.6684667,Timor-Leste:2018,,
+Togo,2014,0,0,133.9686333,Togo:2014,,
+Togo,2015,0,0,178.1048167,Togo:2015,,
+Togo,2016,0,0,74.8768333,Togo:2016,,
+Togo,2017,0,0,27.3287667,Togo:2017,,
+Togo,2018,0,0,111.04435,Togo:2018,,
+Trinidad & Tobago,2014,0,0,2.137128,Trinidad & Tobago:2014,,
+Trinidad & Tobago,2015,0,0,1.9322738,Trinidad & Tobago:2015,,
+Trinidad & Tobago,2016,0,0,1.7645473,Trinidad & Tobago:2016,,
+Trinidad & Tobago,2017,0,0,1.7999997,Trinidad & Tobago:2017,,
+Trinidad & Tobago,2018,0,0,2.8705688,Trinidad & Tobago:2018,,
+Uganda,2014,0,0,3442.351,Uganda:2014,,
+Uganda,2015,0,0,3595.607,Uganda:2015,,
+Uganda,2016,0,0,3543.097,Uganda:2016,,
+Uganda,2017,0,0,4774.033,Uganda:2017,,
+Uganda,2018,0,0,4223.182,Uganda:2018,,
+Venezuela,2014,0,0,0.0820858,Venezuela:2014,,
+Venezuela,2015,0,0,0.50364,Venezuela:2015,,
+Venezuela,2016,0,0,0,Venezuela:2016,,
+Venezuela,2017,0,0,0,Venezuela:2017,,
+Venezuela,2018,0,0,71.7729963,Venezuela:2018,,
+Viet Nam,2014,0,0,26097.14416,Viet Nam:2014,,
+Viet Nam,2015,0,0,20654.5101,Viet Nam:2015,,
+Viet Nam,2016,0,0,27568.14168,Viet Nam:2016,,
+Viet Nam,2017,0,0,22439.36459,Viet Nam:2017,,
+Viet Nam,2018,0,0,27866.14159,Viet Nam:2018,,
+Yemen,2014,0,0,56.9890456,Yemen:2014,,
+Yemen,2015,0,0,52.2324134,Yemen:2015,,
+Yemen,2016,0,0,37.9012596,Yemen:2016,,
+Yemen,2017,0,0,46.4221011,Yemen:2017,,
+Yemen,2018,0,0,42.1181308,Yemen:2018,,
+Zambia,2014,0,0,5.2441874,Zambia:2014,,
+Zambia,2015,0,0,2.9395502,Zambia:2015,,
+Zambia,2016,0,0,9.7911194,Zambia:2016,,
+Zambia,2017,0,0,12.5689814,Zambia:2017,,
+Zambia,2018,0,0,26.168988,Zambia:2018,,
+Zimbabwe,2014,0,0,11.3021925,Zimbabwe:2014,,
+Zimbabwe,2015,0,0,11.0690096,Zimbabwe:2015,,
+Zimbabwe,2016,0,0,12.2870778,Zimbabwe:2016,,
+Zimbabwe,2017,0,0,2.3491934,Zimbabwe:2017,,
+Zimbabwe,2018,0,0,4.8053098,Zimbabwe:2018,,
