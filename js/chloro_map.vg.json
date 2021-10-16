@@ -2,9 +2,10 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 675,
   "height": 500,
-  "projection": {"type": "equirectangular"},
-  "title": "Heat map of retail price in a specific year",
+  "projection": {"type": "equalEarth"},
+  "title": "Coffee Retail price in USD during 2018",
   "background": "#fbefdf",
+
   "data": {
     "url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/World.topo.json",
     "format": {"type": "topojson", "feature": "World.geo"}},
@@ -15,9 +16,11 @@
       "fields": ["Price"]}
     },
     {"calculate":"datum.Price+0.1","as":"Retail price"}],
-    "mark": {"type": "geoshape"},
+    "mark": {"type": "geoshape","stroke":"#b2b2b2"},
     "encoding": {
-        "color": {"field": "Price", "type": "quantitative"},
+        "color": {"field": "Price", "type": "quantitative", "scale":{
+          "type": "threshold","domain":[0,1,10,20,30,40],"range":["White","White","#f3d1a4","#e8a449","#b57116","#5a380b"]
+        }},
       "tooltip": [
         {"field":"properties.name","type": "nominal","title":"Country"},
         {"field": "Price","type": "quantitative"}
