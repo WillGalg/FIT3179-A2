@@ -80,6 +80,7 @@
     Click on a country in the legend to highlight that region. <br> Hover over a point in the chart to see a summary.
   </div>
 </div>
+
 <!-- Chloropleth map -->
 <div class="pure-g padded">
   <div class="pure-u-1-1 highlighter centered">
@@ -89,7 +90,7 @@
     </div>
 
   <div class="pure-u-1-1 centered">
-    <div id="#chloro_map" class="vis-container"></div>
+    <div id="chloro_map" class="vis-container"></div>
     <br><br>
     Hover over a country on the map to view the retail price in that region.
   </div>
@@ -110,7 +111,9 @@ var specVis3 = "import_bar.vg.json"
 var specVis4 = "export_bar.vg.json"
 var specVis5 = "js/chloro_map.vg.json"
 
-vegaEmbed('#dot_map', specVis1, {"actions": false});
+vegaEmbed('#dot_map', specVis1, {"actions": false}).then(function(result) {
+// Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
 
 vegaEmbed('#time_series', specVis2, {"actions": false}).then(function(result) {
 // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
