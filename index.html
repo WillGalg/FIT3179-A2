@@ -108,7 +108,7 @@ var specVis1 = "js/symbol_map.vg.json";
 var specVis2 = "retail_timeseries.vg.json";
 var specVis3 = "import_bar.vg.json"
 var specVis4 = "export_bar.vg.json"
-var specVis5 = "js/chloro_map.vg.json"
+var specVis5 = "chloro_map.vg.json"
 
 vegaEmbed('#dot_map', specVis1, {"actions": false});
 
@@ -124,7 +124,9 @@ vegaEmbed('#bar2', specVis4, {"actions": false}).then(function(result) {
 // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
 }).catch(console.error);
 
-vegaEmbed('#chloro_map', specVis5, {"actions": false});
+vegaEmbed('#chloro_map', specVis5, {"actions": false}).then(function(result) {
+// Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+}).catch(console.error);
 
 </script>
 </body>
