@@ -12,7 +12,7 @@
     "background": "#fbefdf",
     "encoding": {
         "x": {"field": "Year", "type": "ordinal"},
-        "y": {"field":"Price-USD", "type": "quantitative"},
+        "y": {"field":"Price", "type": "quantitative"},
         "color": {
             "field": "Country",
             "type": "nominal",
@@ -24,9 +24,9 @@
         "tooltip": [
             {"field": "Country"},
             {"field": "Year"},
-            {"field": "Price-USD","format":".2f"}
+            {"field": "Price","format":".2f"}
         ]
     },
-    "transform": [ {"filter": {"field": "Price-USD", "gte": "10"}}
+    "transform": [ {"filter": {"field": "Price", "gte": "10"}}
     ]
 }

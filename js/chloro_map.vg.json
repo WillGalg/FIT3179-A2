@@ -2,29 +2,25 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 675,
   "height": 500,
-  "projection": {"type": "equalEarth"},
-  "title": "Regions where coffee beans are grown",
+  "projection": {"type": "equirectangular"},
+  "title": "Heat map of retail price in a specific year",
   "background": "#fbefdf",
-  "layer": [
-    {
-      "data": {
-        "url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/World.topo.json",
-        "format": {"type": "topojson", "feature": "World.geo"}
-      },
-      "mark": {"type": "geoshape", "fill":"White", "stroke": "#b2b2b2"}
+  "data": {
+    "url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/World.topo.json",
+    "format": {"type": "topojson", "feature": "World.geo"}},
+    "transform": [{
+      "lookup": "properties.name",
+      "from":{"data":{"url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/ICO Dataset.csv"},
+      "key": "Country",
+      "fields": ["Price"]}
     },
-    {
-      "data": {"url": "https://raw.githubusercontent.com/WillGalg/FIT3179-A2/main/js/Coffee%20Database.csv"},
-      "mark": {"type": "circle", "tooltip": {"content": "data"}},
-      "encoding": {
-        "longitude": {"field": "Longitude", "type": "quantitative"},
-        "latitude": {"field": "Latitude", "type": "quantitative"},
-        "color": {"value": "#8d6852"},
+    {"calculate":"datum.Price+0.1","as":"Retail price"}],
+    "mark": {"type": "geoshape"},
+    "encoding": {
+        "color": {"field": "Price", "type": "quantitative"},
       "tooltip": [
-        {"field":"Country"},
-        {"field": "Description"}
+        {"field":"properties.name","type": "nominal","title":"Country"},
+        {"field": "Price","type": "quantitative"}
       ]
       }
     }
-  ]
-}
