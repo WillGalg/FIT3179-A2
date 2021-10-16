@@ -15,7 +15,7 @@
       "key": "Country",
       "fields": ["Price"]}
     },
-    {"calculate":"datum.Price+0.1","as":"Retail price"}],
+    {"calculate":"datum.Price","as":"Retail price"}],
     "mark": {"type": "geoshape","stroke":"#b2b2b2"},
     "encoding": {
         "color": {"field": "Price", "type": "quantitative", "scale":{
@@ -23,7 +23,7 @@
         }},
       "tooltip": [
         {"field":"properties.name","type": "nominal","title":"Country"},
-        {"field": "Price","type": "quantitative"}
+        {"field": "Price","type": "quantitative","title":"Price (USD)"}
       ]
       }
     }
