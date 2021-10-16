@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 675,
   "height": 500,
-  "projection": {"type": "equalEarth"},
+  "projection": {"type": "mercator"},
   "title": "Coffee Retail price in USD during 2018",
   "background": "#fbefdf",
 
