@@ -149,7 +149,7 @@
       "x": {"field": "Country", "type": "nominal",
       "sort":{"field":"exports","op":"mean","order":"descending"}
     },
-      "y": {"field":"exports", "type": "quantitative"},
+      "y": {"field":"exports", "type": "quantitative","title":"amount exported (,000)"},
       "color":{"value":"#462e25"}
     }
   }

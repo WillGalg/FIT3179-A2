@@ -283,7 +283,7 @@
       "x": {"field": "Country", "type": "nominal",
       "sort":{"field":"imports","op":"mean","order":"descending"}
     },
-      "y": {"field":"imports", "type": "quantitative"},
+      "y": {"field":"imports", "type": "quantitative","title":"amount imported(,000)"},
       "color":{"value":"#462e25"}
     }
   }
